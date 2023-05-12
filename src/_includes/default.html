@@ -19,7 +19,9 @@
   <body>
     {% include "./partials/navbar.html" %}
 
+    <main class="w-full mx-auto max-w-4xl prose prose-lg xl:prose-2xl prose-zinc">
     {{ content | safe }}
+    </main>
 
     {% include "./partials/footer.html" %}
 
