@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.layout {
+    grid-template-rows: 4rem 1fr 4rem;
+}
+
