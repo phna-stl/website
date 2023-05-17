@@ -2,3 +2,5 @@
 items:
   - text: Home
     url: "/"
+  - text: Store
+    url: "https://phna-stl.square.site"
