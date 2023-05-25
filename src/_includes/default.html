@@ -12,14 +12,15 @@
     {% endif %}
     {% block head %}{% endblock %}
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
-    {% if prism == true %}
-      <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
-    {% endif %}
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
   </head>
-  <body class="h-full min-h-screen grid layout">
+  <body class="h-full min-h-screen grid layout bg-white dark:bg-zinc-900">
     {% include "./partials/navbar.html" %}
 
-    <main class="h-full w-full mx-auto max-w-4xl px-4 prose prose-lg xl:prose-xl prose-zinc">
+    <main class="h-full w-full mx-auto max-w-4xl px-4 prose prose-lg xl:prose-xl prose-zinc dark:prose-invert prose-headings:font-display">
     {{ content | safe }}
     </main>
 
