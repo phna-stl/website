@@ -1,0 +1,10 @@
+---
+layout: about
+title: About Us
+---
+
+<section class="max-w-4xl">
+{% for paragraph in about.about_phna %}
+  {{paragraph | markdown | safe}}
+{% endfor %}
+</section>

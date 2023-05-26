@@ -2,6 +2,12 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const MarkdownIt = require("markdown-it");
+
+const md = new MarkdownIt({
+  html: true,
+  linkify: true,
+});
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -16,6 +22,9 @@ module.exports = function (eleventyConfig) {
       "dd LLL yyyy"
     );
   });
+
+  // parse content as markdown
+  eleventyConfig.addFilter('markdown', content => md.render(content));
 
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
