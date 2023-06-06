@@ -18,22 +18,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
   </head>
-  <body class="h-full min-h-screen grid bg-white dark:bg-gray-900 overflow-x-hidden">
-    {% if header_image == null %}
-      {% include "navbar.html" %}
-    {% endif %}
+  <body class="h-full min-h-screen bg-white dark:bg-gray-900">
 
-    <main class="h-full w-full mx-auto max-w-7xl px-4 pb-12 prose prose-lg xl:prose-xl prose-gray dark:prose-invert prose-headings:font-display prose-headings:font-normal prose-a:text-brand-red dark:prose-a:text-brand-yellow">
-      {% if header_image != null %}
-        {% include "header.html" %}
-        <section class="mx-auto block max-w-7xl w-full px-4">
-          {{ content | safe }}
-        </section>
-      {% else %}
-        <section class="pt-12">
-          {{ content | safe }}
-        </section>
-      {% endif %}
+    <main class="h-full w-full mx-auto max-w-7xl px-4 pt-8 pb-12 prose prose-lg xl:prose-2xl prose-gray dark:prose-invert prose-headings:font-display prose-headings:font-normal prose-a:text-brand-red dark:prose-a:text-brand-yellow">
+    {{ content | safe }}
     </main>
 
     {% include "footer.html" %}
@@ -41,3 +29,4 @@
     <script src="/static/js/alpine.js"></script>
   </body>
 </html>
+

@@ -1,0 +1,14 @@
+<div class="not-prose full-width isolate overflow-hidden bg-brand-blue pb-24 sm:pb-32 bg-blend-overlay bg-cover" style="background-image: url({{ header_image }})">
+  <div class="mb-16 sm:mb-24 lg:mb-32">
+    {% include "navbar.html" %}
+  </div>
+  <div class="mx-auto max-w-7xl px-8">
+    <div class="max-w-2xl">
+      <h2 class="font-display font-normal text-4xl text-white sm:text-6xl">{{title}}</h2>
+      {% if subtitle != null %}
+      <p class="mt-6 text-lg leading-8 text-gray-300">{{subtitle}}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
