@@ -1,0 +1,1 @@
+- [ ] optimize images, especially for the headers. hesitant to use Cloudinary. Maybe 11ty-image?
