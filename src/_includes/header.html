@@ -1,8 +1,10 @@
-<div class="not-prose full-width isolate overflow-hidden bg-brand-blue pb-24 sm:pb-32 bg-blend-overlay bg-cover" style="background-image: url({{ header_image }})">
-  <div class="mb-16 sm:mb-24 lg:mb-32">
+<div class="not-prose full-width isolate overflow-hidden pb-24 sm:pb-32 ">
+  <div class="absolute inset-0 bg-gradient-to-br from-brand-blue to-brand-red via-brand-blue"></div>
+  <img style="background-image: url({{ header_image }})" class="w-full h-full absolute inset-0 bg-cover opacity-20 bg-blend-overlay pointer-events-none"/>
+  <div class="mb-16 sm:mb-24 lg:mb-32 z-10 relative">
     {% include "navbar.html" %}
   </div>
-  <div class="mx-auto max-w-7xl px-8">
+  <div class="mx-auto max-w-7xl px-8 z-1 relative">
     <div class="max-w-2xl">
       <h2 class="font-display font-normal text-4xl text-white sm:text-6xl">{{title}}</h2>
       {% if subtitle != null %}
