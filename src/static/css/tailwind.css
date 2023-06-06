@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 .layout {
-    grid-template-rows: 6rem 1fr 6rem;
+    grid-template-rows: 6rem 1fr 8rem;
 }
 

@@ -6,7 +6,7 @@ items:
         text: What does the Princeton Heights Neighborhood Association do? Find out here.
         url: "/about"
       - name: History
-        text: Not the full history... we've been around a long time. Learn more about us here.
+        text: Not the full history... we've been around a long time. More like the Cliff Notes.
         url: "/about/history"
       - name: Mission
         text: Why we do what we do.
@@ -15,7 +15,7 @@ items:
         text: The men and women who keep things running smoothly (usually).
         url: "/about/board"
       - name: Bylaws
-        text: Let bylaws be bylaws. That's how the saying goes right? If you're a lawyer you might be interested in this page.
+        text: Let bylaws be bylaws, as they say.
         url: "/about/bylaws"
   - name: Community Resources
     items:
