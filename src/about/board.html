@@ -4,36 +4,30 @@ title: Board of Directors
 ---
 
 <section class="not-prose">
-    <ul role="list" class="list-none mx-auto mt-20 grid grid-cols-1 gap-x-6 gap-y-20 max-w-2xl md:grid-cols-2 md:max-w-4xl lg:max-w-5xl lg:gap-x-8 xl:max-w-none">
-        {% for person in about.board %}
-        <li class="flex">
-            <!-- left side -->
-            <div class="bg-brand-red rounded-2xl h-72 w-52 p-4 flex flex-col justify-between items-center gap-6 flex-shrink-0">
-                {% if person.photo %}
-                <img class="w-40 rounded-full flex-none object-cover ring ring-brand-blue shadow-md" src="{{person.photo}}" alt="A photo of {{person.name}}">
-                    {% else %}
-                <div class="w-40 h-40 rounded-full flex-none bg-slate-200 dark:bg-slate-800 ring ring-brand-blue shadow-md"></div>
-                {% endif %}
-                <p class="text-2xl text-brand-blue tracking-wide text-center font-display">{{person.office}}</p>
-            </div>
-            <!-- right side -->
-            <div class="flex-grow">
-                <!-- name/email -->
-                <div class="relative rounded-lg mt-4 -ml-2 p-4 bg-brand-yellow text-brand-blue shadow inline-block">
-                    <div class="flex items-center gap-x-4">
-                        <h3 class="text-3xl font-display leading-8">{{person.name}}</h3>
-                        {% if person.email %}
-                        <a href="mailto:{{person.email}}" class="h-5 w-5 hover:text-brand-red" title="Email {{person.name}}">
-                            <svg class="h-full w-full" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                                <path d="M3 4a2 2 0 00-2 2v1.161l8.441 4.221a1.25 1.25 0 001.118 0L19 7.162V6a2 2 0 00-2-2H3z" />
-                                <path d="M19 8.839l-7.77 3.885a2.75 2.75 0 01-2.46 0L1 8.839V14a2 2 0 002 2h14a2 2 0 002-2V8.839z" />
-                            </svg>
-                        </a>
-                        {% endif %}
-                    </div>
-                </div>
-                <p class="mt-2 text-base leading-7 text-brand-blue dark:text-slate-300 p-4 relative w-full max-w-xs">{{person.bio}}</p>
-        </li>
-        {% endfor %}
-    </ul>
+<ul role="list" class="list-none mx-auto mt-20 grid grid-cols-1 gap-x-6 gap-y-20 max-w-2xl md:grid-cols-2 md:max-w-4xl lg:max-w-5xl lg:gap-x-8 xl:max-w-none">
+  {% for person in about.board %}
+  <li class="flex flex-col gap-6 xl:flex-row">
+      {% if person.photo %}
+      <img class="aspect-[4/5] w-52 flex-none rounded-2xl object-cover" src="{{person.photo}}" alt="A photo of {{person.name}}">
+      {% else %}
+      <div class="aspect-[4/5] w-52 flex-none rounded-2xl object-cover bg-slate-200 dark:bg-slate-300/5"></div>
+      {% endif %}
+    <div class="flex-auto">
+        <div class="flex items-center gap-x-4">
+          <h3 class="text-3xl font-display leading-8 text-brand-red dark:text-brand-yellow">{{person.name}}</h3>
+          {% if person.email %}
+          <a href="mailto:{{person.email}}" class="h-5 w-5 text-slate-400 dark:text-slate-600 hover:text-brand-red dark:hover:text-brand-yellow" title="Email {{person.name}}">
+          <svg class="h-full w-full" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path d="M3 4a2 2 0 00-2 2v1.161l8.441 4.221a1.25 1.25 0 001.118 0L19 7.162V6a2 2 0 00-2-2H3z" />
+              <path d="M19 8.839l-7.77 3.885a2.75 2.75 0 01-2.46 0L1 8.839V14a2 2 0 002 2h14a2 2 0 002-2V8.839z" />
+            </svg>
+          </a>
+          {% endif %}
+        </div>
+        <p class="text-base leading-7 text-slate-600 dark:text-slate-400">{{person.office}}</p>
+        <p class="mt-6 text-lg font-medium leading-7 text-slate-700 dark:text-slate-300">{{person.bio}}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
 </section>
