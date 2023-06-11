@@ -19,7 +19,17 @@ module.exports = function (eleventyConfig) {
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
+      "LLL dd, yyyy"
+    );
+  });
+
+  eleventyConfig.addFilter("friendlyTime", (time) => {
+    let [hours, minutes] = time.toString().split(':').map(x => parseInt(x, 10))
+    let d = new Date()
+    d.setHours(hours)
+    d.setMinutes(minutes)
+    return DateTime.fromJSDate(d, { zone: "America/Chicago" }).toFormat(
+      "h:mm a"
     );
   });
 

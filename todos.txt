@@ -1,1 +1,3 @@
-- [ ] optimize images, especially for the headers. hesitant to use Cloudinary. Maybe 11ty-image?
+- optimize images, especially for the headers. hesitant to use Cloudinary. Maybe 11ty-image?
+- Announcements (for homepage)
+- Events
