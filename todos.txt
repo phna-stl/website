@@ -1,3 +1,4 @@
 - optimize images, especially for the headers. hesitant to use Cloudinary. Maybe 11ty-image?
+        - 11ty image can for sure do this: https://www.youtube.com/watch?v=RAzXB-qu22s
 - Announcements (for homepage)
 - Events
