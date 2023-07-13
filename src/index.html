@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Princeton Heights Neighborhood Association
-subtitle: Princeton Heights is a vibrant, growing community in southwest St. Louis City, full of history and rooted in community. What is PHNA? We are advocates for you. PHNA is a resource for you to engage your government to get services you deserve, to connect you with opportunities to volunteer in your community, and to build relationships with one another. The Princeton Heights Neighborhood Association seeks to foster a strong, engaged neighborhood that is welcoming to all, full of pride, and where people feel at home. 
 path: home
 header_image: /static/img/header.jpg
 ---
 
 <h2>About PHNA</h2>
-{% for paragraph in about.about_phna %}
-  {{paragraph | markdown | safe}}
-{% endfor %}
+{{ content.about_phna | markdown | safe }}

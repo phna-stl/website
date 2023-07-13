@@ -5,7 +5,7 @@ title: Board of Directors
 
 <section class="not-prose">
 <ul role="list" class="list-none mx-auto mt-20 grid grid-cols-1 gap-x-6 gap-y-20 max-w-2xl md:grid-cols-2 md:max-w-4xl lg:max-w-5xl lg:gap-x-8 xl:max-w-none">
-  {% for person in about.board %}
+  {% for person in board.members %}
   <li class="flex flex-col gap-6 xl:flex-row">
       {% if person.photo %}
       <img class="aspect-[4/5] w-52 flex-none rounded-2xl object-cover" src="{{person.photo}}" alt="A photo of {{person.name}}">

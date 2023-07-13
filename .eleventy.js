@@ -34,7 +34,12 @@ module.exports = function (eleventyConfig) {
   });
 
   // parse content as markdown
-  eleventyConfig.addFilter('markdown', content => md.render(content));
+  // for some reason multiline content isn't handled well by this parser,
+  // so the easiest thing to do is split the content by newline and render
+  // each line as a paragraph, then wrap it all in another md.render()
+  eleventyConfig.addFilter('markdown', content => {
+    return md.render(content.split('\n').map(p => md.render(p)).join(''))
+  });
 
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);

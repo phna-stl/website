@@ -1,4 +1,4 @@
-- optimize images, especially for the headers. hesitant to use Cloudinary. Maybe 11ty-image?
+- optimize images, especially for the headers. Look into 11ty-image plugin
         - 11ty image can for sure do this: https://www.youtube.com/watch?v=RAzXB-qu22s
 - Announcements (for homepage)
-- Events
+- Community pages: we need to add these. Let's chat about what these community pages should look like, and we'll get some CMS pages configured to edit the data.

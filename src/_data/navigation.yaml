@@ -1,5 +1,5 @@
 ---
-items:
+groups:
   - name: Who We Are
     items:
       - name: About Us
@@ -28,6 +28,7 @@ items:
       - name: Local Businesses
         text: Support businesses in our community!
         url: "/community/businesses"
+items:
   - name: Get Involved
     url: "/get-involved"
   - name: Events

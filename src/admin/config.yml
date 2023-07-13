@@ -1,10 +1,5 @@
 backend:
-  # Use netlify identity as backend
   name: git-gateway
-  branch: master
-  ### enable below lines for github integration ###
-  # name: github
-  # repo: surjithctly/neat-starter
 media_folder: "src/static/img"
 public_folder: "/static/img"
 
@@ -12,57 +7,98 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "src/posts"
-    create: true
+  - label: "Content"
+    name: "content"
     editor:
       preview: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
+    files:
+      - label: "Navigation"
+        name: "navigation"
+        file: "src/_data/navigation.yaml"
+        fields:
+          - label: Nav Groups
+            name: groups
+            widget: list
+            allow_add: false
+            collapsed: true
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Links
+                name: items
+                widget: list
+                allow_add: false
+                collapsed: true
+                fields:
+                  - { label: Name, name: name, widget: string }
+                  - { label: Text, name: text, widget: string }
+                  - { label: URL, name: url, widget: string }
+          - label: Nav Links
+            name: items
+            widget: list
+            allow_add: false
+            collapsed: true
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Text, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
+      - label: "Homepage"
+        name: "homepage"
+        file: "src/_data/homepage.yaml"
+        fields:
+          - label: Welcome Message
+            name: welcome_message
+            widget: string
+      - label: "About"
+        name: "about"
+        file: "src/_data/content.yaml"
+        fields:
+          - { label: About PHNA, name: about_phna, widget: text }
+          - { label: History, name: history, widget: text }
+      - label: "Board"
+        name: "board"
+        file: "src/_data/board.yaml"
+        fields:
+          - label: Members
+            name: members
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: Office, name: office, widget: string }
+              - { label: Name, name: name, widget: string }
+              - { label: Bio, name: bio, widget: text }
+              - { label: Email, name: email, widget: string, required: false }
+              - { label: Photo, name: photo, widget: image, required: false }
+      - label: "Events"
+        name: "events"
+        file: "src/_data/events.yaml"
+        fields:
+          - label: Events
+            name: list
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Date, name: date, widget: date, format: "YYYY-MM-DD" }
+              - { label: Time, name: time, widget: string }
+              - { label: Location, name: location, widget: string }
+              - { label: Description, name: description, widget: text }
   - label: "Settings"
     name: "settings"
     editor:
       preview: false
     files:
-      - label: "Navigation"
-        name: "items"
-        file: "src/_data/navigation.yaml"
-        fields:
-          - label: Nav Items
-            name: items
-            widget: list
-            allow_add: false
-            collapsed: false
-            fields:
-              - { label: Title, name: text, widget: string }
-              - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-      - label: "Meta Settings"
+      - label: "Site Metadata"
         name: "settings"
         file: "src/_data/settings.yaml"
         fields:
           - { label: Name, name: name, widget: string }
           - { label: Author, name: author, widget: string }
           - { label: URL, name: url, widget: string }
+          - { label: Email, name: email, widget: string }
+          - { label: Facebook, name: facebook, widget: string }
+          - { label: Instagram, name: instagram, widget: string }
+          - { label: Year, name: year, widget: string }
