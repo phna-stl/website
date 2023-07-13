@@ -1,6 +1,37 @@
 ---
+groups:
+  - name: Who We Are
+    items:
+      - name: About Us
+        text: What does the Princeton Heights Neighborhood Association do? Find out here.
+        url: "/about"
+      - name: History
+        text: Not the full history... we've been around a long time. More like the Cliff Notes.
+        url: "/about/history"
+      - name: Mission
+        text: Why we do what we do.
+        url: "/about/mission"
+      - name: Board
+        text: The men and women who keep things running smoothly (usually).
+        url: "/about/board"
+      - name: Bylaws
+        text: Let bylaws be bylaws, as they say.
+        url: "/about/bylaws"
+  - name: Community Resources
+    items:
+      - name: Helpful Information
+        text: Information about the neighborhood and PHNA.
+        url: "/community/info"
+      - name: Contact Information
+        text: Need to get a hold of someone? This is the place!
+        url: "/community/contact"
+      - name: Local Businesses
+        text: Support businesses in our community!
+        url: "/community/businesses"
 items:
-  - text: Home
-    url: "/"
-  - text: Store
+  - name: Get Involved
+    url: "/get-involved"
+  - name: Events
+    url: "/events"
+  - name: Store
     url: "https://phna-stl.square.site"

@@ -2,6 +2,12 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const MarkdownIt = require("markdown-it");
+
+const md = new MarkdownIt({
+  html: true,
+  linkify: true,
+});
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -13,8 +19,26 @@ module.exports = function (eleventyConfig) {
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
+      "LLL dd, yyyy"
     );
+  });
+
+  eleventyConfig.addFilter("friendlyTime", (time) => {
+    let [hours, minutes] = time.toString().split(':').map(x => parseInt(x, 10))
+    let d = new Date()
+    d.setHours(hours)
+    d.setMinutes(minutes)
+    return DateTime.fromJSDate(d, { zone: "America/Chicago" }).toFormat(
+      "h:mm a"
+    );
+  });
+
+  // parse content as markdown
+  // for some reason multiline content isn't handled well by this parser,
+  // so the easiest thing to do is split the content by newline and render
+  // each line as a paragraph, then wrap it all in another md.render()
+  eleventyConfig.addFilter('markdown', content => {
+    return md.render(content.split('\n').map(p => md.render(p)).join(''))
   });
 
   // Syntax Highlighting for Code blocks
