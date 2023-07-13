@@ -5,5 +5,8 @@ path: home
 header_image: /static/img/header.jpg
 ---
 
+<h2>Announcements</h2>
+{% include "announcements.html" %}
+
 <h2>About PHNA</h2>
 {{ content.about_phna | markdown | safe }}
