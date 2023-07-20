@@ -102,6 +102,58 @@ collections:
               - { label: Date, name: date, widget: date, format: "YYYY-MM-DD" }
               - { label: Author, name: author, widget: string }
               - { label: Category, name: category, widget: string }
+  - label: "Community"
+    name: "community"
+    editor:
+      preview: false
+    files:
+      - label: "Businesses"
+        name: "businesses"
+        file: "src/_data/businesses.yaml"
+        fields:
+          - label: Message
+            name: message
+            widget: string
+          - label: Businesses
+            name: items
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Address, name: address, widget: string }
+              - { label: Website, name: website, widget: string }
+              - { label: Phone, name: phone, widget: string }
+              - { label: Image, name: image, widget: image }
+      - label: "Helpful Info"
+        name: "info"
+        file: "src/_data/helpful_info.yaml"
+        fields:
+          - label: Message
+            name: message
+            widget: string
+          - label: Items
+            name: items
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Website, name: website, widget: string }
+              - { label: Phone, name: phone, widget: string }
+      - label: "Contact Info"
+        name: "contact"
+        file: "src/_data/contact_info.yaml"
+        fields:
+          - label: Contact Info
+            name: items
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Website, name: website, widget: string }
+              - { label: Phone, name: phone, widget: string }
   - label: "Settings"
     name: "settings"
     editor:

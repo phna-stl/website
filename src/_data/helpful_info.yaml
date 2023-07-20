@@ -1,0 +1,12 @@
+message: So much info. You have no idea. More info than you've ever seen. It's
+  the best info, everybody says so. I have to keep boxes of it in my resort.
+items:
+  - name: Fire Department
+    website: https://fire.com
+    phone: 911
+  - name: St. Louis Metropolitan Police Department
+    website: https://police.com
+    phone: 911
+  - name: Ameren
+    website: https://ameren.com
+    phone: 411
