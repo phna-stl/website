@@ -2,10 +2,12 @@
   {% for announcement in announcements.items %}
   <article class="rounded-2xl bg-slate-50 dark:bg-slate-800 p-6 md:p-10 flex max-w-xl flex-col items-start justify-start not-prose gap-y-3 md:gap-y-4 relative">
       {% if announcement.category %}
-      <span class="relative md:absolute md:top-3 md:right-3 text-xs rounded-full bg-brand-red/10 px-3 py-1.5 font-medium text-brand-red dark:bg-brand-yellow/10 dark:text-brand-yellow">{{ announcement.category }}</span>
       {% endif %}
     <h3 class="md:mt-2 font-sans font-semibold leading-normal text-xl lg:text-2xl">{{ announcement.title }}</h3>
+    <div class="flex flex-wrap items-center w-full gap-x-4 gap-y-2">
     <p class="text-sm opacity-80"><time datetime="{{announcement.date}}">{{announcement.date | readableDate}}</time> by {{announcement.author}}</p>
+      <span class="inline-flex items-center rounded-md px-2 py-1 text-xs font-medium ring-1 ring-inset ring-brand-red/10 bg-brand-red/5 text-brand-red dark:ring-brand-yellow/10 dark:bg-brand-yellow/5 dark:text-brand-yellow">{{ announcement.category }}</span>
+         </div>
     <p class="text-base lg:text-lg leading-relaxed">{{ announcement.description }}</p>
   </article>
   {% endfor %}
