@@ -121,7 +121,8 @@ collections:
             collapsed: true
             fields:
               - { label: Name, name: name, widget: string }
-              - { label: Address, name: address, widget: string }
+              - { label: Address Line One, name: address_one, widget: string }
+              - { label: Address Line Two, name: address_two, widget: string }
               - { label: Website, name: website, widget: string }
               - { label: Phone, name: phone, widget: string }
               - { label: Image, name: image, widget: image }

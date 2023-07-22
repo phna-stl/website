@@ -2,12 +2,14 @@
 message: Support local businesses! (this message is editable in the admin)
 items:
   - name: McBride, Inc.
-    address: 1600 Penn Ave, St. Louis, MO 63123
+    address_one: 1600 Penn Ave
+    address_two: St. Louis, MO 63123
     website: https://mikemcbride.dev
     phone: 314-867-5309
     image: https://images.unsplash.com/photo-1488161628813-04466f872be2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1664&q=80
   - name: Derrick's Rocks
-    address: 1 Gravel Rd, St. Louis, MO 63123
+    address_one: 1 Gravel Rd
+    address_two: St. Louis, MO 63123
     website: https://buymyrocks.com
     phone: 314-413-1234
     image: https://images.unsplash.com/photo-1507832321772-e86cc0452e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w1024=&q=80
