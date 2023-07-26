@@ -18,8 +18,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
   </head>
-  <body class="h-full min-h-screen grid bg-white dark:bg-slate-900 overflow-x-hidden">
-    <main class="h-full w-full mx-auto max-w-7xl px-4 pb-12 prose prose-lg xl:prose-xl prose-slate dark:prose-invert prose-headings:font-display prose-headings:font-normal prose-a:text-brand-red dark:prose-a:text-brand-yellow">
+  <body x-data="{ isOpen: false }" class="h-full min-h-screen grid bg-white dark:bg-slate-900 overflow-x-hidden" :class="isOpen ? 'overflow-hidden' : ''">
+    <main x-data class="h-full w-full mx-auto max-w-7xl px-4 pb-12 prose prose-lg xl:prose-xl prose-slate dark:prose-invert prose-headings:font-display prose-headings:font-normal prose-a:text-brand-red dark:prose-a:text-brand-yellow">
       {% include "header.html" %}
       <section class="mx-auto block max-w-7xl w-full px-4">
         {{ content | safe }}
