@@ -1,6 +1,6 @@
- <div class="mx-auto grid grid-cols-1 gap-x-8 lg:gap-x-12 gap-y-8 lg:gap-y-12 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+ <div class="grid grid-cols-1 gap-x-8 lg:gap-x-12 gap-y-8 lg:gap-y-12 lg:max-w-none lg:grid-cols-3">
   {% for announcement in announcements.items %}
-  <article class="rounded-2xl bg-slate-50 dark:bg-slate-800 p-6 md:p-8 flex max-w-xl flex-col items-start justify-start not-prose gap-y-3 md:gap-y-4">
+  <article class="rounded-2xl bg-slate-50 dark:bg-slate-800 p-4 md:p-6 lg:p-8 flex max-w-xl flex-col items-start justify-start not-prose gap-y-3 md:gap-y-4">
       {% if announcement.category %}
       {% endif %}
     <h3 class="font-sans font-semibold leading-normal text-xl lg:text-2xl">{{ announcement.title }}</h3>
