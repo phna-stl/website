@@ -8,7 +8,7 @@ title: Board of Directors
   {% for person in board.members %}
   <li class="flex flex-col gap-6 xl:flex-row">
       {% if person.photo %}
-      <img class="aspect-[4/5] w-52 flex-none rounded-2xl object-cover" src="{{person.photo}}" alt="A photo of {{person.name}}">
+            {% image person.photo, "A photo of {{person.name}}", "(min-width: 30em) 300px, 600px", "aspect-[4/5] w-52 flex-none rounded-2xl object-cover" %}
       {% else %}
       <div class="aspect-[4/5] w-52 flex-none rounded-2xl object-cover bg-slate-200 dark:bg-slate-300/5"></div>
       {% endif %}
