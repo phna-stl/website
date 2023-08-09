@@ -57,6 +57,7 @@ collections:
         fields:
           - { label: About PHNA, name: about_phna, widget: text }
           - { label: History, name: history, widget: text }
+          - { label: Bylaws, name: bylaws, widget: text }
       - label: "Board"
         name: "board"
         file: "src/_data/board.yaml"
