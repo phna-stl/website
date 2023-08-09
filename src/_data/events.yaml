@@ -1,0 +1,38 @@
+---
+list:
+  - date: 2023-05-25
+    time: 14:00
+    location: Willmore Park
+    location_url: https://goo.gl/maps/PUVXVtfSz8uoUkZQ6
+    title: Maple Syrup Museum
+    description: Let's tour the maple syrup museum!
+  - date: 2023-06-14
+    time: 19:00
+    location: City Hall
+    location_url: https://goo.gl/maps/PUVXVtfSz8uoUkZQ6
+    title: Lonely Hearts Club Dance
+    description: Come socialize! Singles only.
+  - date: 2023-06-20
+    time: 15:00
+    location: Willmore Park
+    location_url: https://goo.gl/maps/PUVXVtfSz8uoUkZQ6
+    title: Neighborhood Cleanup
+    description: In an effort to beautify our neighborhood, we'll be cleaning up stuff.
+  - date: 2023-06-25
+    time: 18:00
+    location: Willmore Park
+    location_url: https://goo.gl/maps/PUVXVtfSz8uoUkZQ6
+    title: Jogging and Jesus
+    description: We'll jog around the park and sing worship songs.
+  - date: 2023-06-28
+    time: 19:00
+    location: Derrick's House
+    location_url: https://goo.gl/maps/8SyEMxicdNxmyhQUA
+    title: PHNA Meeting
+    description: This is where stuff actually happens.
+  - date: 2023-07-04
+    time: 19:00
+    location: Derrick's House
+    location_url: https://goo.gl/maps/8SyEMxicdNxmyhQUA
+    title: Fireworks
+    description: Derrick loves fireworks. If you do too, you should come over. BYOB.

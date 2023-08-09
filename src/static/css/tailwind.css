@@ -2,7 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --selection-color: theme('colors.brand-red');
+    --selection-foreground: theme('colors.white');
+}
+::selection {
+    background: var(--selection-color);
+    color: var(--selection-foreground);
+}
+
 .layout {
-    grid-template-rows: 4rem 1fr 4rem;
+    grid-template-rows: 6rem 1fr 8rem;
 }
 
