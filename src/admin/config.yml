@@ -148,14 +148,17 @@ collections:
         name: "contact"
         file: "src/_data/contact_info.yaml"
         fields:
-          - label: Contact Info
+          - label: Message
+            name: message
+            widget: string
+          - label: Items
             name: items
             widget: list
             allow_add: true
             collapsed: true
             fields:
-              - { label: Name, name: name, widget: string }
-              - { label: Website, name: website, widget: string }
+              - { label: Title, name: title, widget: string }
+              - { label: Email, name: email, widget: string }
               - { label: Phone, name: phone, widget: string }
   - label: "Settings"
     name: "settings"
