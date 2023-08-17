@@ -4,5 +4,10 @@ list:
     location: Bethel Church
     location_url: https://goo.gl/maps/c2QVjcr4WCwYctVr8
     title: September General Membership Meeting
-    description: "Special guests: [Conflict Resolution Center of St.
-      Louis](https://www.crcstl.org) and [Trailnet](https://www.trailnet.org)"
+    description: "Special guests: Conflict Resolution Center of St.
+      Louis and Trailnet"
+    links:
+      - title: Conflict Resolution Center of St. Louis
+        url: https://www.crcstl.org
+      - title: Trailnet
+        url: https://www.trailnet.org
