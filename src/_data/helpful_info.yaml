@@ -1,12 +1,14 @@
-message: So much info. You have no idea. More info than you've ever seen. It's
-  the best info, everybody says so. I have to keep boxes of it in my resort.
+message: Important community contacts for the Princeton Heights neighborhood.
 items:
-  - name: Fire Department
-    website: https://fire.com
-    phone: 911
   - name: St. Louis Metropolitan Police Department
-    website: https://police.com
-    phone: 911
+    website: https://www.slmpd.org
+    phone: (314) 231-1212
+  - name: Fire Department
+    website: https://www.stlouis-mo.gov/fire/index.cfm
+    phone: (314) 533-3406
   - name: Ameren
-    website: https://ameren.com
-    phone: 411
+    website: https://www.ameren.com/missouri/
+    phone: (800) 552-7583
+  - name: Spire Gas
+    website: https://https://spireenergy.com/
+    phone: (800) 887-4173
