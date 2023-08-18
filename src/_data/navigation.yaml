@@ -1,37 +1,42 @@
----
 groups:
   - name: Who We Are
     items:
       - name: About Us
-        text: What does the Princeton Heights Neighborhood Association do? Find out here.
-        url: "/about"
+        text: Learn more about the Princeton Heights Neighborhood Association
+        url: /about
       - name: History
-        text: Not the full history... we've been around a long time. More like the Cliff Notes.
-        url: "/about/history"
+        text: A brief history of the Princeton Heights neighborhood.
+        url: /about/history
       - name: Mission
-        text: Why we do what we do.
-        url: "/about/mission"
+        text: The mission of the Princeton Heights Neighborhood Association
+        url: /about/mission
       - name: Board
-        text: The men and women who keep things running smoothly (usually).
-        url: "/about/board"
+        text: Meet the all-volunteer Board of Directors for the Princeton Heights
+          Neighborhood Association.
+        url: /about/board
       - name: Bylaws
-        text: Let bylaws be bylaws, as they say.
-        url: "/about/bylaws"
+        text: The adopted bylaws of the Princeton Heights Neighborhood Association can
+          be found here.
+        url: /about/bylaws
   - name: Community Resources
     items:
       - name: Helpful Information
-        text: Information about the neighborhood and PHNA.
-        url: "/community/info"
+        text: Contacts for City and community resources.
+        url: /community/info
       - name: Contact Information
-        text: Need to get a hold of someone? This is the place!
-        url: "/community/contact"
+        text: Need to get a hold of PHNA? Here's the place!
+        url: /community/contact
       - name: Local Businesses
-        text: Support businesses in our community!
-        url: "/community/businesses"
+        text: Support businesses that support Princeton Heights Neighborhood
+          Association!
+        url: /community/businesses
 items:
   - name: Get Involved
-    url: "/get-involved"
+    url: /get-involved
+    text: Volunteer with the Princeton Heights Neighborhood Association.
   - name: Events
-    url: "/events"
+    url: /events
+    text: Calendar of PHNA events
   - name: Store
-    url: "https://phna-stl.square.site"
+    url: https://phna-stl.square.site
+    text: Join or renew your membership or purchase PHNA swag on our Square store!
