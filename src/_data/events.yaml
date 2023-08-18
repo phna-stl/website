@@ -1,11 +1,10 @@
 list:
   - date: 2023-09-07
-    time: 19:00
+    time: 14:00
     location: Bethel Church
     location_url: https://goo.gl/maps/c2QVjcr4WCwYctVr8
     title: September General Membership Meeting
-    description: "Special guests: Conflict Resolution Center of St.
-      Louis and Trailnet"
+    description: "Special guests: Conflict Resolution Center of St. Louis and Trailnet"
     links:
       - title: Conflict Resolution Center of St. Louis
         url: https://www.crcstl.org
