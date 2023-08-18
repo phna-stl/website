@@ -1,15 +1,11 @@
----
-message: We can figure out what to put on this page. I like this layout - what do you think?
+message: Contact members of the PHNA
 items:
-  - title: Collaborate
-    email: collaborate@phna-stl.org
-    phone: +1 (555) 905-2345
-  - title: Press
-    email: press@phna-stl.org
-    phone: +1 (555) 905-3456
-  - title: Join Our Team
-    email: careers@phna-stl.org
-    phone: +1 (555) 905-4567
-  - title: Say Hello
-    email: hello@phna-stl.org
-    phone: +1 (555) 905-5678
+  - title: Board of Directors
+    email: info@phna-stl.org
+    phone: Coming soon!
+  - title: President of the Board of Directors
+    email: president@phna-stl.org
+    phone: Coming soon!
+  - title: Treasurer of Princeton Heights Neighborhood Association
+    email: treasurer@phna-stl.org
+    phone: Coming soon!
