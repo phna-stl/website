@@ -12,7 +12,7 @@ list:
         url: https://www.trailnet.org
   - date: 2023-09-24
     title: Art in the Park
-    time: "1500"
+    time: 15:00
     location: Francis Park
     links:
       - title: Art in the Park - St. Louis
