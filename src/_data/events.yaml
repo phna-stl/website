@@ -18,3 +18,18 @@ list:
       a.m. Neighbors are encouraged to participate by using the form linked
       below. "
     location_url: N/A
+  - date: 2023-09-24
+    title: Art in the Park
+    time: 1500 - 2200
+    location: Francis Park
+    links:
+      - title: Art in the Park - St. Louis
+        url: https://www.artintheparkstl.com/
+    description: Visit PHNA at Art in the Park!
+    location_url: https://goo.gl/maps/sAXaAas1wEP3wcvEA
+  - date: 2023-10-05
+    title: October General Membership Meeting
+    time: 00:00
+    location: Bethel Church
+    location_url: https://goo.gl/maps/c2QVjcr4WCwYctVr8
+    description: Special guests TBA
