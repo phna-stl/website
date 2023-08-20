@@ -2,22 +2,28 @@ members:
   - name: Derrick Neuner
     office: President
     email: president@phna-stl.org
-    photo: https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
-    bio: Sam Bradford. Albert Pujols. Barack Obama. Billikens. You got it.
+    photo: /static/img/neuner_derrick_613-2201.jpg
+    bio: "Derrick has lived in Princeton Heights since 2016. Previously, he served
+      as a Director and Vice President of the Princeton Heights Neighborhood
+      Association. He was elected President of the Board of Directors in 2022.
+      He works as an athletic trainer for Mercy Clinic Orthopedics. "
   - name: Vacant
     office: Vice President
-    photo: ''
-    bio: I just want somebody to love me...
+    photo: ""
+    bio: If you are interested in joining the Board of Directors for the Princeton
+      Heights Neighborhood Association, please email president@phna-stl.org
   - name: Jennifer Hinkl
     office: Treasurer
     email: treasurer@phna-stl.org
-    photo: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
-    bio: Number 3 on this list, number 1 in your hearts.
+    photo: ""
+    bio: "Jennifer has lived in Princeton Heights since 2017. "
   - name: Beth Davis
     office: Secretary
     email: secretary@phna-stl.org
-    photo: https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
-    bio: Honestly I thought this position was about secrets, and now I'm stuck doing this job.
+    photo: /static/img/davis_elizabeth.jpg
+    bio: Beth has lived in Princeton Heights since 2010. She has been the Secretary
+      of the Board of Directors of the Princeton Heights Neighborhood
+      Association since 2019. She is a coordinator at Edward Jones.
   - name: Steve Oslica
     office: Correspondence Secretary
     email: info@phna-stl.org
@@ -35,4 +41,3 @@ members:
     office: Director
     photo: https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
     bio: Directs traffic.
-
