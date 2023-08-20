@@ -16,7 +16,9 @@ members:
     office: Treasurer
     email: treasurer@phna-stl.org
     photo: ""
-    bio: "Jennifer has lived in Princeton Heights since 2017. "
+    bio: "Jennifer has lived in Princeton Heights since 2013. She previously served
+      as a Director of the Princeton Heights Neighborhood Association before
+      being elected Treasurer in 2020. "
   - name: Beth Davis
     office: Secretary
     email: secretary@phna-stl.org
@@ -27,17 +29,24 @@ members:
   - name: Steve Oslica
     office: Correspondence Secretary
     email: info@phna-stl.org
-    photo: https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
-    bio: All your questions are belong to me.
+    photo: /static/img/0m4a1534_crop.jpg
+    bio: "Steve has lived in Princeton Heights since 2015. He previously served as a
+      Director of the Princeton Heights Neighborhood Association from 2016-2019
+      and 2021-2022 before assuming the role of Corresponding Secretary in 2023.
+      He serves as the director of marketing and communications for the Chaifetz
+      School of Business at Saint Louis University. "
   - name: Bill Lamberton
     office: Director
     photo: https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
-    bio: Directs boards.
+    bio: BIO FILL
   - name: Jamie Reed
     office: Director
     photo: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
-    bio: Boards directly.
+    bio: BIO FILL
   - name: Mick Klasek
     office: Director
-    photo: https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80
-    bio: Directs traffic.
+    photo: /static/img/business-card.jpg
+    bio: "Born and raised in south St. Louis, Mick has lived in Princeton Heights
+      since 2018. He joined the Board of Directors in 2023. He is a Realtor with
+      Delhougne Realty Group. "
+    email: ""
