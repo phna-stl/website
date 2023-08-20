@@ -37,6 +37,6 @@ items:
   - name: Events
     url: /events
     text: Calendar of PHNA events
-  - name: Join or Renew
+  - name: Join/Renew
     url: https://phna-stl.square.site
     text: Join or renew your membership or purchase PHNA swag on our Square store!
