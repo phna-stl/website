@@ -22,7 +22,7 @@ members:
   - name: Beth Davis
     office: Recording Secretary
     email: secretary@phna-stl.org
-    photo: ""
+    photo: /static/img/davis_elizabeth.jpg
     bio: Beth has lived in Princeton Heights since 2010. She has been the Secretary
       of the Board of Directors of the Princeton Heights Neighborhood
       Association since 2019. She is a coordinator at Edward Jones.
@@ -42,7 +42,9 @@ members:
   - name: Jamie Reed
     office: Director
     photo: ""
-    bio: BIO FILL
+    bio: "Jamie has lived in Princeton Heights for 12 years. She was elected to the
+      Board of Directors in 2022. She has worked for the state of Missouri for
+      over 22 years. "
   - name: Mick Klasek
     office: Director
     photo: /static/img/business-card.jpg
