@@ -15,7 +15,7 @@ members:
   - name: Jennifer Hinkl
     office: Treasurer
     email: treasurer@phna-stl.org
-    photo: ""
+    photo: /static/img/attachment.jpg
     bio: "Jennifer has lived in Princeton Heights since 2013. She served as a
       Director of the Princeton Heights Neighborhood Association from 2018-2020
       prior to being elected Treasurer in 2021. "
@@ -41,7 +41,7 @@ members:
     bio: BIO FILL
   - name: Jamie Reed
     office: Director
-    photo: /static/img/screenshot_20230820_193459_gallery.jpg
+    photo: /static/img/jamie-reed.jpg
     bio: "Jamie has lived in Princeton Heights for 12 years. She was elected to the
       Board of Directors in 2022. She has worked for the state of Missouri for
       over 22 years. "
