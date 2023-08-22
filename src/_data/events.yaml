@@ -23,10 +23,14 @@ list:
     title: Fall Community Yard Sale
     time: 12:00
     location: Neighborhood-wide
-    description: "The fall community yard sale is Sat., Sept. 30, beginning at 7
-      a.m. Neighbors are encouraged to participate by using the form linked
-      below. "
+    description: The fall community yard sale is Sat., Sept. 30, beginning at 7 a.m.
+      Neighbors are encouraged to participate by using the form linked below.
+      Registration ends Fri., Sept. 22. If you have any questions, contact us at
+      info@phna-stl.org
     location_url: N/A
+    links:
+      - title: Sign-Up for Yard Sale
+        url: https://docs.google.com/forms/d/e/1FAIpQLSf6_-ZP1fVfVRzjZZcUoEN2X_-qx9Z92rNiuhcECMDkTWUZOQ/viewform?usp=sf_link
   - date: 2023-10-05
     title: October General Membership Meeting
     time: 00:00
