@@ -1,6 +1,5 @@
 const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 const MarkdownIt = require("markdown-it");
 const Image = require("@11ty/eleventy-img");
@@ -29,7 +28,7 @@ module.exports = function(eleventyConfig) {
     let d = new Date()
     d.setHours(hours)
     d.setMinutes(minutes)
-    return DateTime.fromJSDate(d, { zone: "America/Chicago" }).toFormat(
+    return DateTime.fromJSDate(d, { zone: "utc" }).toFormat(
       "h:mm a"
     );
   });
@@ -43,7 +42,6 @@ module.exports = function(eleventyConfig) {
       formats: ["webp", "jpeg"],
       outputDir: "./_site/img/"
     })
-
     let imageAttributes = {
       alt,
       sizes,
@@ -51,7 +49,6 @@ module.exports = function(eleventyConfig) {
       loading: "lazy",
       decoding: "async",
     }
-
     // You bet we throw an error on a missing alt (alt="" works okay)
     return Image.generateHTML(metadata, imageAttributes)
   });
@@ -64,9 +61,6 @@ module.exports = function(eleventyConfig) {
     return md.render(content.split('\n').map(p => md.render(p)).join(''))
   });
 
-  // Syntax Highlighting for Code blocks
-  eleventyConfig.addPlugin(syntaxHighlight);
-
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
@@ -75,8 +69,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./src/admin/config.yml": "./admin/config.yml",
     "./node_modules/alpinejs/dist/cdn.min.js": "./static/js/alpine.js",
-    "./node_modules/prismjs/themes/prism-tomorrow.css":
-      "./static/css/prism-tomorrow.css",
   });
 
   // Copy Image Folder to /_site

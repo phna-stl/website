@@ -5,7 +5,7 @@ groups:
         text: Learn more about the Princeton Heights Neighborhood Association
         url: /about
       - name: History
-        text: A brief history of the Princeton Heights neighborhood.
+        text: A brief history of the Princeton Heights neighborhood
         url: /about/history
       - name: Mission
         text: The mission of the Princeton Heights Neighborhood Association
@@ -16,12 +16,12 @@ groups:
         url: /about/board
       - name: Bylaws
         text: The adopted bylaws of the Princeton Heights Neighborhood Association can
-          be found here.
+          be found here
         url: /about/bylaws
   - name: Community Resources
     items:
       - name: Helpful Information
-        text: Contacts for City and community resources.
+        text: Contacts for City and community resources
         url: /community/info
       - name: Contact Information
         text: Need to get a hold of PHNA? Here's the place!

@@ -5,7 +5,7 @@ media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: false
+local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "Content"
@@ -51,28 +51,6 @@ collections:
           - label: Welcome Message
             name: welcome_message
             widget: string
-      - label: "About"
-        name: "about"
-        file: "src/_data/content.yaml"
-        fields:
-          - { label: About PHNA, name: about_phna, widget: text }
-          - { label: History, name: history, widget: text }
-          - { label: Bylaws, name: bylaws, widget: text }
-      - label: "Board"
-        name: "board"
-        file: "src/_data/board.yaml"
-        fields:
-          - label: Members
-            name: members
-            widget: list
-            allow_add: true
-            collapsed: true
-            fields:
-              - { label: Office, name: office, widget: string }
-              - { label: Name, name: name, widget: string }
-              - { label: Bio, name: bio, widget: text }
-              - { label: Email, name: email, widget: string, required: false }
-              - { label: Photo, name: photo, widget: image, required: false }
       - label: "Events"
         name: "events"
         file: "src/_data/events.yaml"
@@ -112,6 +90,46 @@ collections:
               - { label: Date, name: date, widget: date, format: "YYYY-MM-DD" }
               - { label: Author, name: author, widget: string }
               - { label: Category, name: category, widget: string }
+  - label: "Who We Are"
+    name: "who_we_are"
+    editor:
+      preview: false
+    files:
+      - label: "About PHNA"
+        name: "about"
+        file: "src/_data/about.yaml"
+        fields:
+          - { label: About PHNA, name: content, widget: text }
+      - label: "History"
+        name: "history"
+        file: "src/_data/history.yaml"
+        fields:
+          - { label: History, name: content, widget: text }
+      - label: "Mission"
+        name: "mission"
+        file: "src/_data/mission.yaml"
+        fields:
+          - { label: Mission, name: mission, widget: text }
+      - label: "Board"
+        name: "board"
+        file: "src/_data/board.yaml"
+        fields:
+          - label: Members
+            name: members
+            widget: list
+            allow_add: true
+            collapsed: true
+            fields:
+              - { label: Office, name: office, widget: string }
+              - { label: Name, name: name, widget: string }
+              - { label: Bio, name: bio, widget: text }
+              - { label: Email, name: email, widget: string, required: false }
+              - { label: Photo, name: photo, widget: image, required: false }
+      - label: "Bylaws"
+        name: "bylaws"
+        file: "src/_data/bylaws.yaml"
+        fields:
+          - { label: URL, name: embed_url, widget: string }
   - label: "Community"
     name: "community"
     editor:
@@ -180,6 +198,10 @@ collections:
           - { label: Name, name: name, widget: string }
           - { label: Author, name: author, widget: string }
           - { label: URL, name: url, widget: string }
+      - label: "Footer"
+        name: "footer"
+        file: "src/_data/footer.yaml"
+        fields:
           - { label: Email, name: email, widget: string }
           - { label: Facebook, name: facebook, widget: string }
           - { label: Instagram, name: instagram, widget: string }
