@@ -6,6 +6,7 @@ public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: false
+# local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "Content"
@@ -114,6 +115,7 @@ collections:
         name: "board"
         file: "src/_data/board.yaml"
         fields:
+          - { label: Text, name: text, widget: string }
           - label: Members
             name: members
             widget: list
@@ -191,6 +193,11 @@ collections:
     editor:
       preview: false
     files:
+      - label: "Header"
+        name: "header"
+        file: "src/_data/header.yaml"
+        fields:
+          - { label: Header Image, name: image, widget: image, required: true }
       - label: "Site Metadata"
         name: "settings"
         file: "src/_data/settings.yaml"

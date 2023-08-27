@@ -1,8 +1,8 @@
-{% if header_image == null %}
+{% if header.image == null %}
 <div class="not-prose w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50-vw] relative pb-24 sm:pb-32 inset-0 z-10">
   <div class="absolute inset-0 transform -skew-y-3 origin-top-left bg-gradient-to-tr from-brand-blue to-brand-red via-brand-blue"></div>
 {% else %}
-<div class="not-prose w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50-vw] relative pb-24 sm:pb-32 inset-0 bg-cover" style="--bg-image: url({{header_image}}); background-image: linear-gradient(to bottom right, hsl(217 73% 16% / 85%) 50%, hsl(340 100% 50% / 85%)), var(--bg-image); background-position: center, center">
+<div class="not-prose w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50-vw] relative pb-24 sm:pb-32 inset-0 bg-cover" style="--bg-image: url({{header.image}}); background-image: linear-gradient(to bottom right, hsl(217 73% 16% / 85%) 50%, hsl(340 100% 50% / 85%)), var(--bg-image); background-position: bottom, center">
 {% endif %}
     
   <div class="mb-16 sm:mb-24 lg:mb-32 z-10 relative">
