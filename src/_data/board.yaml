@@ -1,4 +1,8 @@
-text: Meet the all-volunteer Board of Directors for the Princeton Heights Neighborhood Association.
+text: Meet the all-volunteer Board of Directors for the Princeton Heights
+  Neighborhood Association. According to the PHNA bylaws, each position serves a
+  two-year staggered term, with the president, treasurer, and two directors
+  elected one cycle, and the vice president, secretary, and one director elected
+  the other.
 members:
   - name: Derrick Neuner
     office: President
@@ -18,7 +22,7 @@ members:
     email: treasurer@phna-stl.org
     photo: /static/img/attachment.jpg
     bio: "Jennifer has lived in Princeton Heights since 2013. She served as a
-      Director of the Princeton Heights Neighborhood Association from 2018-2020
+      Director of the Princeton Heights Neighborhood Association from 2018-2022
       prior to being elected Treasurer in 2022. She is an accountant for BJC
       Healthcare. "
   - name: Beth Davis
