@@ -69,6 +69,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./src/admin/config.yml": "./admin/config.yml",
     "./node_modules/alpinejs/dist/cdn.min.js": "./static/js/alpine.js",
+    "./_redirects": "./_redirects"
   });
 
   // Copy Image Folder to /_site
