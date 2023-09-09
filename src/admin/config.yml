@@ -5,8 +5,8 @@ media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: false
-# local_backend: true
+# local_backend: false
+local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "Content"
@@ -131,7 +131,13 @@ collections:
         name: "bylaws"
         file: "src/_data/bylaws.yaml"
         fields:
-          - { label: URL, name: embed_url, widget: string }
+          - { label: Bylaws URL, name: embed_url, widget: string }
+          - label: Minutes
+            name: minutes
+            widget: object
+            fields:
+              - { label: Content, name: content, widget: text }
+              - { label: URL, name: url, widget: string }
   - label: "Community"
     name: "community"
     editor:
