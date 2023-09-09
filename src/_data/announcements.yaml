@@ -1,4 +1,12 @@
 items:
+  - date: 2023-09-09
+    title: General Meeting Minutes
+    description: The minutes to all PHNA General Meetings can now be found
+      [here](https://drive.google.com/drive/folders/171bB96m4yfNwvzAYfuTdXRniuC2XqXLN?usp=drive_link)
+      once they are approved by the Board of Directors. If you have any
+      questions, please [contact the Secretary](mailto:secretary@phna-stl.org)
+    author: Derrick Neuner
+    category: Announcement
   - date: 2023-08-19
     title: Fall Community Yard Sale
     description: Sign up now to participate in the PHNA Fall Community Yard Sale,
@@ -14,5 +22,13 @@ items:
       on Thurs., Sept. 7, for our first fall general meeting! As always,
       meetings are held at Bethel Church (5401 S. Kingshighway Blvd), and doors
       open at 6:30 p.m. with the meeting starting at 7:00 p.m.
+    author: Derrick Neuner
+    category: Meetings
+  - date: 2023-09-09
+    title: Oct. General Meeting - Oct. 5
+    description: Join PHNA and our special guest, St. Louis City Circuit Attorney
+      Gabe Gore, on Thurs., Oct. 5. As always, meetings are held at Bethel
+      Church (5401 S. Kingshighway Blvd), and doors open at 6:30 p.m. with the
+      meeting starting at 7:00 p.m.
     author: Derrick Neuner
     category: Meetings
