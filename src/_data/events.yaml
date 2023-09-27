@@ -1,40 +1,17 @@
 list:
-  - date: 2023-09-07
-    time: 19:00
-    location: Bethel Church
-    location_url: https://goo.gl/maps/c2QVjcr4WCwYctVr8
-    title: September General Membership Meeting
-    description: Doors open at 6:30 P.M. with the meeting starting at 7:00 P.M.
-      Special guests Conflict Resolution Center–St. Louis empowers people to
-      resolve conflict through accessible mediation, coaching, and education,
-      while Trailnet advocates at the local, state, and federal levels to make
-      walking and biking better for everyone.
-    links:
-      - title: Conflict Resolution Center of St. Louis
-        url: https://www.crcstl.org
-      - title: Trailnet
-        url: https://www.trailnet.org
-  - date: 2023-09-24
-    title: Art in the Park
-    time: 11:00
-    location: Francis Park
-    links:
-      - title: Art in the Park - St. Louis
-        url: https://www.artintheparkstl.com/
-    description: Visit PHNA at Art in the Park!
-    location_url: https://goo.gl/maps/sAXaAas1wEP3wcvEA
   - date: 2023-09-30
     title: Fall Community Yard Sale
     time: 07:00
     location: Neighborhood-wide
     description: The fall community yard sale is Sat., Sept. 30, beginning at 7 a.m.
-      Neighbors are encouraged to participate by using the form linked below.
-      Registration ends Fri., Sept. 22. If you have any questions, contact us at
-      info@phna-stl.org
+      Over 20 households are participating! Printed maps are also available at
+      Zoomie's Cafe and Bethel Church.
     location_url: N/A
     links:
-      - title: Sign-Up for Yard Sale
-        url: https://docs.google.com/forms/d/e/1FAIpQLSf6_-ZP1fVfVRzjZZcUoEN2X_-qx9Z92rNiuhcECMDkTWUZOQ/viewform?usp=sf_link
+      - title: Print a map of participating houses
+        url: https://drive.google.com/file/d/1yRCKo2unOdJXm7Sm-nmGweKZCntCR5xg/view?usp=drive_link
+      - title: Interactive map via Google Maps
+        url: https://www.google.com/maps/d/edit?mid=1dK-IJ3uTyMc2GhofUy2JLY83W1ngFLqD&usp=drive_link
   - date: 2023-10-05
     title: October General Membership Meeting
     time: 19:00

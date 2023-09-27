@@ -1,29 +1,14 @@
 items:
-  - date: 2023-09-09
-    title: General Meeting Minutes
-    description: The minutes to all PHNA General Meetings can now be found
-      [here](https://drive.google.com/drive/folders/171bB96m4yfNwvzAYfuTdXRniuC2XqXLN?usp=drive_link)
-      once they are approved by the Board of Directors. If you have any
-      questions, please [contact the Secretary](mailto:secretary@phna-stl.org)
-    author: Derrick Neuner
-    category: Announcement
   - date: 2023-08-19
     title: Fall Community Yard Sale
-    description: Sign up now to participate in the PHNA Fall Community Yard Sale,
-      being held Sat., Sept. 30, starting at 7:00 A.M. Click
-      [here](https://docs.google.com/forms/d/e/1FAIpQLSf6_-ZP1fVfVRzjZZcUoEN2X_-qx9Z92rNiuhcECMDkTWUZOQ/viewform?usp=sf_link)
-      to add your house to the list!
+    description: Over 20 households are participating in this year's fall yard sale!
+      To print a map, [click
+      here](https://drive.google.com/file/d/1yRCKo2unOdJXm7Sm-nmGweKZCntCR5xg/view?usp=drive_link).
+      Printed maps are also available at Zoomie's Cafe and Bethel Church. To use
+      the interactive map, via Google Maps, [click
+      here](https://www.google.com/maps/d/edit?mid=1dK-IJ3uTyMc2GhofUy2JLY83W1ngFLqD&usp=drive_link)
     author: Derrick Neuner
     category: Events
-  - date: 2023-08-15
-    title: Sept. General Meeting - Sept. 7
-    description: Join PHNA and our special guests, [Conflict Resolution Center of
-      St. Louis](https://www.crcstl.org/) and [Trailnet](https://trailnet.org/),
-      on Thurs., Sept. 7, for our first fall general meeting! As always,
-      meetings are held at Bethel Church (5401 S. Kingshighway Blvd), and doors
-      open at 6:30 p.m. with the meeting starting at 7:00 p.m.
-    author: Derrick Neuner
-    category: Meetings
   - date: 2023-09-09
     title: Oct. General Meeting - Oct. 5
     description: Join PHNA and our special guest, St. Louis City Circuit Attorney
@@ -32,3 +17,11 @@ items:
       meeting starting at 7:00 p.m.
     author: Derrick Neuner
     category: Meetings
+  - date: 2023-09-09
+    title: General Meeting Minutes
+    description: The minutes to all PHNA General Meetings can now be found
+      [here](https://drive.google.com/drive/folders/171bB96m4yfNwvzAYfuTdXRniuC2XqXLN?usp=drive_link)
+      once they are approved by the Board of Directors. If you have any
+      questions, please [contact the Secretary](mailto:secretary@phna-stl.org)
+    author: Derrick Neuner
+    category: Announcement
