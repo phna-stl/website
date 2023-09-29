@@ -12,6 +12,16 @@ list:
         url: https://drive.google.com/file/d/1yRCKo2unOdJXm7Sm-nmGweKZCntCR5xg/view?usp=drive_link
       - title: Interactive map via Google Maps
         url: https://www.google.com/maps/d/edit?mid=1dK-IJ3uTyMc2GhofUy2JLY83W1ngFLqD&usp=drive_link
+  - date: 2023-10-03
+    title: National Night Out
+    time: 18:00
+    location_url: 5850 Macklind Ave, St. Louis, MO 63109
+    location: CoRadius Coworking
+    description: Join your neighbors for a bonfire and s'mores behind CoRadius
+      Coworking and Zoomie's Pet Cafe! National Night Out is a nationwide event
+      established in 1984 to generate the participation of neighbors in their
+      community and is celebrated on the first tuesday of October in the city of
+      St. Louis.
   - date: 2023-10-05
     title: October General Membership Meeting
     time: 19:00
