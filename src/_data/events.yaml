@@ -1,30 +1,18 @@
 list:
-  - date: 2023-09-30
-    title: Fall Community Yard Sale
-    time: 07:00
-    location: Neighborhood-wide
-    description: The fall community yard sale is Sat., Sept. 30, beginning at 7 a.m.
-      Over 20 households are participating! Printed maps are also available at
-      Zoomie's Cafe and Bethel Church.
-    location_url: N/A
-    links:
-      - title: Print a map of participating houses
-        url: https://drive.google.com/file/d/1yRCKo2unOdJXm7Sm-nmGweKZCntCR5xg/view?usp=drive_link
-      - title: Interactive map via Google Maps
-        url: https://www.google.com/maps/d/edit?mid=1dK-IJ3uTyMc2GhofUy2JLY83W1ngFLqD&usp=drive_link
-  - date: 2023-10-03
-    title: National Night Out
-    time: 18:00
-    location_url: 5850 Macklind Ave, St. Louis, MO 63109
-    location: CoRadius Coworking
-    description: Join your neighbors for a bonfire and s'mores behind CoRadius
-      Coworking and Zoomie's Pet Cafe! National Night Out is a nationwide event
-      established in 1984 to generate the participation of neighbors in their
-      community and is celebrated on the first tuesday of October in the city of
-      St. Louis.
-  - date: 2023-10-05
-    title: October General Membership Meeting
-    time: 19:00
+  - date: 2023-12-07
+    title: Annual Holiday Party
+    time: 1800-2000
     location: Bethel Church
-    location_url: https://goo.gl/maps/c2QVjcr4WCwYctVr8
-    description: "Special Guest: St. Louis City Circuit Attorney Gabe Gore"
+    location_url: https://www.google.com/maps/place/Kingshighway+Baptist+Church/@38.5807185,-90.2818353,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e3aa0af7:0x67feabda56c75d2e!8m2!3d38.5807185!4d-90.2792604!16s%2Fg%2F1v8gcl18?entry=ttu
+    description: Join PHNA and your neighbors for a festive celebration of the
+      holiday season! This year, food will be provided from The Christy! There
+      will also be music, games, and holly jolly! No RSVP needed; no cost to
+      attend! Note the 6:00 P.M. start time! We hope to see you there!
+  - date: 2023-12-14
+    title: "PHNA Happy Hour: A Solstice Celebration"
+    time: 1700-2000
+    location: Novella's Wine Bar
+    location_url: https://www.google.com/maps/place/Novella+Wine+Bar/@38.5807185,-90.2818353,17z/data=!4m14!1m7!3m6!1s0x87d8b5c2e3aa0af7:0x67feabda56c75d2e!2sKingshighway+Baptist+Church!8m2!3d38.5807185!4d-90.2792604!16s%2Fg%2F1v8gcl18!3m5!1s0x87d8b5c2c8f9e55b:0xb084cdf142137f41!8m2!3d38.5798156!4d-90.2795194!16s%2Fg%2F11bx5pwh8x?entry=ttu
+    description: Join PHNA and your neighbors for a solstice celebration at
+      Novella's Wine Bar! All patrons receive 15% off select drinks from 5-6
+      P.M. Thank you to Novella for hosting us!
