@@ -1,22 +1,11 @@
 items:
-  - date: 2023-08-19
-    title: Fall Community Yard Sale
-    description: Over 20 households are participating in this year's fall yard sale!
-      To print a map, [click
-      here](https://drive.google.com/file/d/1yRCKo2unOdJXm7Sm-nmGweKZCntCR5xg/view?usp=drive_link).
-      Printed maps are also available at Zoomie's Cafe and Bethel Church. To use
-      the interactive map, via Google Maps, [click
-      here](https://www.google.com/maps/d/edit?mid=1dK-IJ3uTyMc2GhofUy2JLY83W1ngFLqD&usp=drive_link)
+  - date: 2023-11-14
+    title: PHNA Celebrates the Holidays!
+    description: Join PHNA and your neighbors this holiday season for our annual
+      holiday party on 12/7 and a solstice happy hour on 12/14! More information
+      on our events page and on Facebook!
     author: Derrick Neuner
-    category: Events
-  - date: 2023-09-09
-    title: Oct. General Meeting - Oct. 5
-    description: Join PHNA and our special guest, St. Louis City Circuit Attorney
-      Gabe Gore, on Thurs., Oct. 5. As always, meetings are held at Bethel
-      Church (5401 S. Kingshighway Blvd), and doors open at 6:30 p.m. with the
-      meeting starting at 7:00 p.m.
-    author: Derrick Neuner
-    category: Meetings
+    category: events
   - date: 2023-09-09
     title: General Meeting Minutes
     description: The minutes to all PHNA General Meetings can now be found
