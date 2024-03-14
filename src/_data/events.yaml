@@ -1,10 +1,4 @@
 list:
-  - date: 2024-03-07
-    title: March General Meeting
-    time: 19:00
-    location: Bethel Church
-    location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-    description: "Join PHNA for our March general meeting! Agenda to be posted. "
   - date: 2024-04-04
     title: April General Meeting
     time: 19:00
@@ -17,6 +11,18 @@ list:
     location: Bethel Church
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
     description: Join PHNA for our May general meeting! Agenda to be posted.
+  - date: 2024-05-18
+    title: Annual Neighborhood Picnic
+    time: 1100-1400
+    location: CoRadius Co-Working
+    location_url: https://maps.app.goo.gl/PZievf6T1neY5sb6A
+    description: >-
+      Join your neighbors and PHNA for the annual neighborhood picnic! This
+      year, we will be hosting the picnic behind CoRadius Co-Working, next to
+      Zoomie's dog yard.
+
+
+      More details to be announced!
   - date: 2024-06-06
     title: June General Meeting
     time: 17:00
