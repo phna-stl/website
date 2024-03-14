@@ -25,13 +25,12 @@ members:
       Director of the Princeton Heights Neighborhood Association from 2018-2022
       prior to being elected Treasurer in 2022. She is an accountant for BJC
       Healthcare. "
-  - name: Beth Davis
+  - name: Vacant
     office: Recording Secretary
     email: secretary@phna-stl.org
-    photo: /static/img/davis_elizabeth.jpg
-    bio: Beth has lived in Princeton Heights since 2010. She has been the Secretary
-      of the Board of Directors of the Princeton Heights Neighborhood
-      Association since 2019. She is a coordinator at Edward Jones.
+    photo: ""
+    bio: If you are interested in joining the Board of Directors, please email
+      president@phna-stl.org
   - name: Steve Oslica
     office: Corresponding Secretary
     email: info@phna-stl.org
@@ -44,17 +43,15 @@ members:
   - name: Bill Lamberton
     office: Director
     photo: ""
-    bio: BIO FILL
+    bio: Bill works as a tour guide at Anheuser-Busch.
   - name: Jamie Reed
     office: Director
     photo: /static/img/jamie-reed.jpg
     bio: "Jamie has lived in Princeton Heights for 12 years. She was elected to the
       Board of Directors in 2022. She has worked for the state of Missouri for
       over 22 years. "
-  - name: Mick Klasek
+  - name: Mark Richter
     office: Director
-    photo: /static/img/business-card.jpg
-    bio: "Born and raised in south St. Louis, Mick has lived in Princeton Heights
-      since 2018. He joined the Board of Directors in 2023. He is a Realtor with
-      Delhougne Realty Group. "
+    photo: ""
+    bio: "Mark has lived in Princeton Heights for two years. "
     email: ""
