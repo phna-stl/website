@@ -13,7 +13,7 @@ list:
     description: Join PHNA for our May general meeting! Agenda to be posted.
   - date: 2024-05-18
     title: Annual Neighborhood Picnic
-    time: 1100-1400
+    time: "1100"
     location: CoRadius Co-Working
     location_url: https://maps.app.goo.gl/PZievf6T1neY5sb6A
     description: >-
