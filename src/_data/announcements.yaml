@@ -1,9 +1,14 @@
 items:
-  - date: 2024-09-08
-    title: Happy Hour - September 19
-    description: Join your neighbors this Thursday for a casual happy hour at [JJ
-      Twig's Pizza & Pub](https://www.jjtwigssouthhampton.com/) (5600 Hampton
-      Avenue), from 5-7 PM!
+  - date: 2024-09-22
+    title: National Night Out - October 1
+    description: Join your neighbors October1 from 5-7:00 PM behind CoRadius
+      Coworking (5850 Macklind) for a bonfire, s'mores and more!
+    author: Mark Richter
+    category: Events
+  - date: 2024-09-22
+    title: October General Meeting
+    description: Join PHNA for our October general meeting! Thursday, October 3 from
+      5-7:00 PM at Bethel Church, 5401 S. Kingshighway Blvd.
     author: Mark Richter
     category: Events
   - date: 2024-09-16
@@ -13,11 +18,3 @@ items:
     description: Renew or become a member now, and your membership is good through
       2025! Memberships start at just $15. Join or renew right here [on our
       website](https://phna-stl.square.site/).
-  - date: 2023-09-09
-    title: General Meeting Minutes
-    description: The minutes to all PHNA General Meetings can now be found
-      [here](https://drive.google.com/drive/folders/171bB96m4yfNwvzAYfuTdXRniuC2XqXLN?usp=drive_link)
-      once they are approved by the Board of Directors. If you have any
-      questions, please [contact the Secretary](mailto:secretary@phna-stl.org)
-    author: Derrick Neuner
-    category: Announcement
