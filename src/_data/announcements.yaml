@@ -1,14 +1,15 @@
 items:
   - date: 2024-09-22
-    title: National Night Out - October 1
-    description: Join your neighbors October 1 from 5-7 PM behind CoRadius Coworking
-      (5850 Macklind) for a bonfire, s'mores and more!
-    author: Mark Richter
-    category: Events
-  - date: 2024-09-22
     title: October General Meeting
     description: Join PHNA for our October general meeting! Thursday, October 3 at 7
       PM at Bethel Church, 5401 S. Kingshighway Blvd.
+    author: Mark Richter
+    category: Events
+  - date: 2024-10-01
+    title: October Happy Hour at Onesto
+    description: >
+      Join PHNA and your neighbors at our October happy hour at Onesto Pizza &
+      Trattoria (5401 Finkman), from 5-7 PM!
     author: Mark Richter
     category: Events
   - date: 2024-09-16
