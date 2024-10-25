@@ -1,4 +1,10 @@
 items:
+  - date: 2024-10-25
+    title: November General Meeting
+    description: Join us for our November general meeting, Thursday, November 7 at
+      Bethel Church, 5401 S. Kinghighway Blvd.
+    author: Mark Richter
+    category: Event
   - date: 2024-10-23
     title: Get Your Princeton Heights Flags!
     description: Display your Princeton Heights pride with a porch or garden flag!
@@ -8,15 +14,6 @@ items:
       PayPal, Venmo or Square.
     author: Mark Richter
     category: Announcements
-  - date: 2024-10-13
-    description: PHNA is currently accepting nominations for board members,
-      including the positions of Treasurer, Recording Secretary, and Director
-      (multiple openings). Nominations are being accepted through October 24.
-      [Contact us](mailto:info@phna-stl.org) for more information or to submit a
-      nomination.
-    title: PHNA Board Members Wanted
-    author: Mark Richter
-    category: Announcement
   - date: 2024-09-16
     category: Announcement
     author: Mark Richter
