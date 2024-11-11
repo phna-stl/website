@@ -1,11 +1,4 @@
 items:
-  - date: 2024-10-25
-    title: November General Meeting
-    description: Join us for our November general meeting, featuring special guest
-      speaker, Mayor Tishaura Jones! We hope to see you Thursday, November 7 at
-      7:00 PM, at Bethel Church, 5401 S. Kinghighway Blvd.
-    author: Mark Richter
-    category: Event
   - date: 2024-11-04
     title: PHNA Annual Holiday Party
     description: Join PHNA as we celebrate the holiday season, Thursday, December 5!
@@ -20,3 +13,10 @@ items:
     category: Event
     description: Join PHNA and your neighbors, Thursday, December 19, for a solstice
       celebration at Novella Wine Bar, 5510 S. Kingshighway Blvd.
+  - date: 2024-11-10
+    description: Renew or become a member now, and your membership is good through
+      2025! Memberships start at just $15. Join or renew right here [on our
+      website](https://phna-stl.square.site/).
+    title: Renew Your Membership or Become a Member
+    author: Mark Richter
+    category: Announcement
