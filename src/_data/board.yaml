@@ -31,15 +31,15 @@ members:
     photo: ""
     bio: If you are interested in joining the Board of Directors for the Princeton
       Heights Neighborhood Association, please email president@phna-stl.org
-  - name: Steve Oslica
+  - name: Mark Richter
     office: Corresponding Secretary
-    email: info@phna-stl.org
-    photo: /static/img/0m4a1534_crop.jpg
-    bio: "Steve has lived in Princeton Heights since 2015. He previously served as a
-      Director of the Princeton Heights Neighborhood Association from 2016-2019
-      and 2021-2022 before assuming the role of Corresponding Secretary in 2023.
-      He serves as the director of marketing and communications for the Chaifetz
-      School of Business at Saint Louis University. "
+    email: mark@phna-stl.org
+    photo: /static/img/mark-richter.png
+    bio: "Mark has lived in Princeton Heights since 2022. He was previously a
+      Director on the PHNA board, then served as interim Corresponding Secretary
+      in 2023 before being voted as permanent Corresponding Secretary going
+      forward. Mark is a Senior User Experience Designer with Entegral, a tech
+      subsidiary of Enterprise Mobility. "
   - name: Bill Lamberton
     office: Director
     photo: ""
