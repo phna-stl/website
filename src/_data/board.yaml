@@ -35,11 +35,10 @@ members:
     office: Corresponding Secretary
     email: mark@phna-stl.org
     photo: /static/img/mark-richter.png
-    bio: "Mark has lived in Princeton Heights since 2022. He was previously a
-      Director on the PHNA board, then served as interim Corresponding Secretary
-      in 2023 before being voted as permanent Corresponding Secretary going
-      forward. Mark is a Senior User Experience Designer with Entegral, a tech
-      subsidiary of Enterprise Mobility. "
+    bio: "Mark has lived in Princeton Heights since 2022. He was previously interim
+      Corresponding Secretary in 2023 before being voted permanently to that
+      role for 2024. Mark is a Senior User Experience Designer with Entegral, a
+      tech subsidiary of Enterprise Mobility. "
   - name: Bill Lamberton
     office: Director
     photo: ""
@@ -50,8 +49,9 @@ members:
     bio: "Jamie has lived in Princeton Heights for 12 years. She was elected to the
       Board of Directors in 2022. She has worked for the state of Missouri for
       over 22 years. "
-  - name: Mark Richter
+  - name: Vacant
     office: Director
     photo: ""
-    bio: "Mark has lived in Princeton Heights for two years. "
+    bio: If you are interested in joining the Board of Directors for the Princeton
+      Heights Neighborhood Association, please email president@phna-stl.org
     email: ""
