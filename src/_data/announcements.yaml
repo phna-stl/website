@@ -1,24 +1,23 @@
 items:
-  - date: 2025-01-14
-    title: We're Taking a Break!
+  - date: 2025-02-12
+    title: March General Meeting
+    description: Join PHNA for our March general meeting! March 6, 7:00 PM at Bethel
+      Church (5401 S. Kingshighway). The St. Louis City Water Division will be
+      there to discuss lead in property service lines.
     author: Mark Richter
-    category: Announcement
-    description: We’ll be taking a break until our March general meeting, but we're
-      still here if you need us! Otherwise, the next meeting is scheduled for
-      Thursday, March 6 at 7 PM at Bethel Church. See you then!
+    category: Event
+  - date: 2025-02-12
+    title: PHNA Happy Hours are Back!
+    description: Join PHNA and your neighbors for a special happy hour - March 20,
+      5-7 PM at Hatch'd STL! They'll be opening at this time just for us; enjoy
+      a cash bar (including a special Princeton Heights cocktail!), and food
+      provided by PHNA.
+    author: Mark Richter
+    category: Event
   - date: 2024-11-10
     description: Renew or become a member now, and your membership is good through
       2025! Memberships start at just $15. Join or renew right here [on our
       website](https://phna-stl.square.site/).
     title: Renew Your Membership or Become a Member
-    author: Mark Richter
-    category: Announcement
-  - date: 2024-12-15
-    description: Display your Princeton Heights pride with a porch or garden flag!
-      Garden flags are $15 (12" x 18", designed to hang from a garden stand),
-      porch flags are $45 (30" x 40", featuring a pole sleeve). Contact us at
-      info@phna-stl.org or catch us at an upcoming meeting to pay by cash,
-      PayPal, Venmo or Square.
-    title: Get Your Princeton Heights Flags!
     author: Mark Richter
     category: Announcement
