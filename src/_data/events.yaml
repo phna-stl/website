@@ -1,28 +1,16 @@
 list:
-  - date: 2024-10-17
-    title: October Happy Hour at Onesto
-    time: 17:00
-    location_url: https://maps.app.goo.gl/mob7xjjKzAwtV3j3A
-    location: Onesto Pizza & Trattoria
-    description: >
-      Join PHNA and your neighbors for happy hour at Onesto Pizza & Trattoria,
-      from 5-7 PM!
-  - date: 2024-11-07
-    title: November General Meeting
-    time: 17:00
-    location: Bethel Church
+  - date: 2025-03-06
+    title: March General Meeting
+    time: 19:00
+    location: Bethel Church - 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-    description: Join PHNA for our November general meeting! Agenda to be posted.
-  - date: 2024-12-05
-    title: Annual Holiday Party
-    time: 18:00
-    location: Bethel Church
-    location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-    description: Join PHNA as we celebrate the holiday season!
-  - date: 2024-12-19
-    title: Winter Solstice Happy Hour at Novella
+    description: Join PHNA for our March general meeting! The St. Louis City Water
+      Division will be there to discuss lead in property service lines.
+  - date: 2025-03-20
+    title: March Happy Hour at Hatch'd STL
     time: 17:00
-    location: Novella Wine Bar
-    location_url: https://maps.app.goo.gl/oVJ1J6oCJAq5XyTg7
-    description: Join PHNA and your neighbors for our Winter Solstice happy hour at
-      Novella Wine Bar, from 5-7 PM!
+    location_url: https://maps.app.goo.gl/UTgXhpaZNHejRXRg8
+    location: Hatch'd STL - 6931 Gravois Avenue
+    description: Join PHNA and your neighbors for a special happy hour! Hatch'd will
+      be opening at this time just for us; we'll have a cash bar (including a
+      special Princeton Heights cocktail!), and food will be provided by PHNA.
