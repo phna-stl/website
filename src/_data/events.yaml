@@ -110,3 +110,26 @@ list:
     links:
       - url: http://www.onestopizza.com/
         title: Onesto Pizza & Trattoria
+  - date: 2025-11-06
+    title: November General Meeting
+    description: "Join PHNA for our November general meeting! "
+    time: 19:00
+    location: Bethel Church, 5401 South Kingshighway Blvd.
+    location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
+  - date: 2025-12-04
+    title: Annual Holiday Party
+    time: 18:00
+    description: We'll be celebrating the season at Bethel Church! More details to
+      be announced.
+    location: Bethel Church, 5401 South Kingshighway Blvd.
+    location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
+  - date: 2025-12-18
+    title: PHNA Winter Solstice Happy Hour
+    time: 17:00
+    location: Novella Wine Bar, 5514 South Kingshighway Blvd.
+    location_url: https://maps.app.goo.gl/Qx8RDcuXf4k6s7Ju8
+    description: Join PHNA and your neighbors for a solstice celebration at Novella
+      Wine Bar!
+    links:
+      - title: Novella Wine Bar
+        url: http://www.novellawinebar.com/
