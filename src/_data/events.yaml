@@ -84,3 +84,29 @@ list:
     links:
       - url: http://www.jjtwigssouthhampton.com/
         title: JJ Twig's Pizza & Pub
+  - date: 2025-10-02
+    title: October General Meeting
+    description: "Join PHNA for our October general meeting! "
+    location: Bethel Church, 5401 South Kingshighway Blvd.
+    time: 19:00
+    location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
+  - date: 2025-10-07
+    title: National Night Out
+    time: 17:00
+    location: CoRadius Coworking, 5850 Macklind Ave.
+    location_url: https://maps.app.goo.gl/Qo3Xi2Rb3BDsij3L9
+    description: Join your neighbors for a celebration of community during the
+      National Night Out!
+    links:
+      - url: https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-stabilization-office/national-night-out/index.cfm
+        title: National Night Out
+  - date: 2025-10-16
+    title: October Happy Hour at Onesto
+    location: Onesto Pizza & Trattoria, 5401 Finkman St.
+    time: 17:00
+    location_url: https://maps.app.goo.gl/e9M53nyUUTPKYNdK6
+    description: Join PHNA and your neighbors for happy hour at Onesto Pizza &
+      Trattoria, from 5-7 PM!
+    links:
+      - url: http://www.onestopizza.com/
+        title: Onesto Pizza & Trattoria
