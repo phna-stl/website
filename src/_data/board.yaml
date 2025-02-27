@@ -17,20 +17,19 @@ members:
     photo: ""
     bio: If you are interested in joining the Board of Directors for the Princeton
       Heights Neighborhood Association, please email president@phna-stl.org
-  - name: Jennifer Hinkl
-    office: Treasurer
-    email: treasurer@phna-stl.org
-    photo: /static/img/attachment.jpg
-    bio: "Jennifer has lived in Princeton Heights since 2013. She served as a
-      Director of the Princeton Heights Neighborhood Association from 2018-2022
-      prior to being elected Treasurer in 2022. She is an accountant for BJC
-      Healthcare. "
   - name: Vacant
-    office: Recording Secretary
-    email: secretary@phna-stl.org
+    office: Treasurer
+    email: ""
     photo: ""
     bio: If you are interested in joining the Board of Directors for the Princeton
       Heights Neighborhood Association, please email president@phna-stl.org
+  - name: Jennifer Middleton
+    office: Recording Secretary
+    email: ""
+    photo: /static/img/jennifer.jpeg
+    bio: "Jennifer has lived in Princeton Heights since 2020.  She is a Business
+      Banking Regional Operations Leader for Missouri and surrounding states for
+      U.S. Bank.   "
   - name: Mark Richter
     office: Corresponding Secretary
     email: mark@phna-stl.org
