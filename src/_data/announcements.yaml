@@ -1,11 +1,8 @@
 items:
   - date: 2025-03-18
     title: Happy Hour at Hatch'd Postponed
-    description: >-
-      This Thursday’s happy hour at Hatch’d has been postponed. We’ll reschedule
-      it, for a happier hour, 
-
-      on a date to be announced later.
+    description: This Thursday’s happy hour at Hatch’d has been postponed. We’ll
+      reschedule it, for a happier hour, on a date to be announced soon.
     author: Mark Richter
     category: Announcement
   - date: 2025-03-12
