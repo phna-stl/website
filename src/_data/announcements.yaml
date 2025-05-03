@@ -1,4 +1,13 @@
 items:
+  - date: 2025-05-03
+    description: Join us on May 17 from 11 AM - 2 PM for the PHNA Annual
+      Neighborhood Picnic! This year, we are once again hosting the picnic in
+      the yard space behind CoRadius Coworking, next to Zoomie's dog yard. We
+      are delighted to welcome "Signs of a Struggle" back as our live musical
+      entertainment. Stay tuned for even more details!
+    title: PHNA Neighborhood Picnic - May 17
+    author: Mark Richter
+    category: Event
   - date: 2025-04-07
     category: Announcement
     title: Join the PHNA Community
@@ -17,12 +26,3 @@ items:
       Square.
     author: Mark Richter
     category: Announcement
-  - date: 2025-05-03
-    description: Join us on May 17 from 11 AM - 2 PM for the PHNA Annual
-      Neighborhood Picnic! This year, we are once again hosting the picnic in
-      the yard space behind CoRadius Coworking, next to Zoomie's dog yard. We
-      are delighted to welcome "Signs of a Struggle" back as our live musical
-      entertainment. Stay tuned for even more details!
-    title: PHNA Neighborhood Picnic - May 17
-    author: Mark Richter
-    category: Event
