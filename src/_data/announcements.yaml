@@ -1,11 +1,12 @@
 items:
-  - date: 2025-06-06
-    title: June Happy Hour at Cafe Nova
-    description: Join PHNA and your neighbors at Cafe Nova (5611 S. Kingshighway) on
-      Thursday, June 19 from 5-7 PM for happy hour! We hope to be on the patio,
-      weather permitting.
+  - date: 2025-06-22
+    title: Summer Vacation!
+    description: We’ll be taking a break from meetings and social events until
+      September, but we're still here if you need us! Otherwise, the next
+      meeting is scheduled for Thursday, September 4 at 7 PM at Bethel Church.
+      See you then!
     author: Mark Richter
-    category: Event
+    category: Announcement
   - date: 2025-04-07
     category: Announcement
     title: Join the PHNA Community
