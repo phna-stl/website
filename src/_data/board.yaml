@@ -19,9 +19,10 @@ members:
       Heights Neighborhood Association, please email president@phna-stl.org
   - name: Andrew Meyer
     office: Treasurer
-    email: ""
-    photo: ""
-    bio: Photo and bio coming soon!
+    email: treasurer@phna-stl.org
+    photo: /static/img/andrew-meyer-portrait.jpg
+    bio: Andrew has lived in Princeton Heights since 2022. He was appointed
+      treasurer in 2025. Andrew is a CPA in the state of Missouri.
   - name: Jennifer Middleton
     office: Recording Secretary
     email: ""
