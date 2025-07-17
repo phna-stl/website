@@ -71,9 +71,12 @@ list:
     title: Annual Fall Yard Sale
     time: 7:00
     location: Princeton Heights
-    location_url: https://maps.app.goo.gl/xNcE8B6nKTooKkjm9
+    location_url: To be posted prior to event
     description: The PHNA Fall Yard Sale will take place on Saturday, September 13!
       Sign-up information and other details to be announced.
+    links:
+      - title: Sign up to participate!
+        url: https://docs.google.com/forms/d/e/1FAIpQLScMA-qQY52GBZ9dVNMJs-DUy_OVXTMPWCCew6yVfVyNfUs50Q/viewform?usp=sharing&ouid=111020223108473859578
   - date: 2025-09-18
     title: September Happy Hour at JJ Twig's
     time: 17:00
