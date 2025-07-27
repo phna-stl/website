@@ -2,7 +2,7 @@ items:
   - date: 2025-07-27
     title: Annual Yard Sale
     description: "Sign up now to participate in our Annual Yard Sale! Click
-      here(https://forms.gle/Qfbti3FrWnZqefyp9) to head to the Google Form!
+      here<https://forms.gle/Qfbti3FrWnZqefyp9> to head to the Google Form!
       Questions? Email us: info@phna-stl.org"
     author: Derrick Neuner
     category: Announcements
