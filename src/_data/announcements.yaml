@@ -1,4 +1,11 @@
 items:
+  - date: 2025-07-27
+    title: Annual Yard Sale
+    description: "Sign up now to participate in our Annual Yard Sale! Click
+      here(https://forms.gle/Qfbti3FrWnZqefyp9) to head to the Google Form!
+      Questions? Email us: info@phna-stl.org"
+    author: Derrick Neuner
+    category: Announcements
   - date: 2025-06-22
     title: Summer Vacation!
     description: We're taking a break from meetings and social events until
@@ -16,10 +23,3 @@ items:
       list, memberships help sustain PHNA, and allow us to create more engaging
       events for the community.
     author: Mark Richter
-  - date: 2025-07-27
-    title: Annual Yard Sale
-    description: "Sign up now to participate in our Annual Yard Sale! Click
-      here(https://forms.gle/Qfbti3FrWnZqefyp9) to head to the Google Form!
-      Questions? Email us: info@phna-stl.org"
-    author: Derrick Neuner
-    category: Announcements
