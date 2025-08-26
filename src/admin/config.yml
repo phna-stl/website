@@ -91,6 +91,12 @@ collections:
               - { label: Date, name: date, widget: date, format: "YYYY-MM-DD" }
               - { label: Author, name: author, widget: string }
               - { label: Category, name: category, widget: string }
+      - label: "Yard Sale"
+        name: "yardsale"
+        file: "src/_data/yardsale.yaml"
+        fields:
+            - { label: Content, name: content, widget: text }
+            - { label: Google Form Link, name: google_form, widget: string }
   - label: "Who We Are"
     name: "who_we_are"
     editor:
