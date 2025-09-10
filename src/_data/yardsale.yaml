@@ -4,6 +4,4 @@ content: >-
 
 
   Below is an online, interactive map and printable map to find the over 30 residences participating. For questions, please contact us at info@phna-stl.org.
-google_form: <iframe
-  src="https://www.google.com/maps/d/u/1/embed?mid=1KVSmAzO76tH4sWk-SCQawgYlRKFO6G4&ehbc=2E312F"
-  width="640" height="480"></iframe>
+google_form: https://www.google.com/maps/d/u/1/edit?mid=1KVSmAzO76tH4sWk-SCQawgYlRKFO6G4&usp=sharing
