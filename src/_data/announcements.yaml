@@ -1,19 +1,21 @@
 items:
-  - date: 2025-09-09
-    title: Annual Yard Sale
-    description: "The PHNA Annual Fall Yard Sale is coming up this Saturday,
-      September 13, starting at 7 AM. A [digital
-      map](https://www.google.com/maps/d/edit?mid=1KVSmAzO76tH4sWk-SCQawgYlRKFO\
-      6G4&usp=sharing) is available via Google Maps. "
+  - date: 2025-09-18
+    description: For this year's National Night Out, PHNA is doing its first ever
+      Trunk or Treat, Tuesday, October 7 in the Our Lady of Sorrows parking lot.
+      Stay tuned for more details, coming soon!
+    title: Trunk-or-Treat!
     author: Mark Richter
-    category: Announcements
-  - date: 2025-09-09
-    title: PHNA Happy Hour - Sept. 18
-    description: >
-      Join us at JJ Twig's (5600 Hampton Ave.) Thursday, September 18 from 5-7
-      PM, for happy hour! We hope to be on the patio, weather permitting.
+    category: Events
+  - date: 2025-09-18
+    title: General Meeting Minutes
+    description: "Can't make it to every PHNA general meeting? Stay informed by
+      reviewing [our meeting
+      minutes](https://drive.google.com/drive/folders/171bB96m4yfNwvzAYfuTdXRni\
+      uC2XqXLN?usp=sharing). Save that link as a bookmark, or find the minutes
+      linked from our website: from the main menu, click \"Who We Are\" and then
+      \"Bylaws & Meeting Minutes.\"   "
     author: Mark Richter
-    category: Event
+    category: Announcement
   - date: 2025-04-07
     category: Announcement
     title: Join the PHNA Community
