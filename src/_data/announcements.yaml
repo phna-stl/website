@@ -1,4 +1,13 @@
 items:
+  - date: 2025-09-26
+    description: "Join us for the October general meeting, Thursday, October 2 at 7
+      PM, at Bethel Church - 5401 South Kingshighway. St. Louis City Recycles
+      will be our special guest and provide a thorough update about City
+      recycling. Plus, they’ll have a limited number of free in-home recycle
+      bins to distribute! "
+    title: October General Meeting
+    author: Mark Richter
+    category: Event
   - date: 2025-09-18
     description: For this year's National Night Out, PHNA is doing its first ever
       Trunk or Treat, Tuesday, October 7 in the Our Lady of Sorrows parking lot.
@@ -6,16 +15,6 @@ items:
     title: Trunk-or-Treat!
     author: Mark Richter
     category: Events
-  - date: 2025-09-18
-    title: General Meeting Minutes
-    description: "Can't make it to every PHNA general meeting? Stay informed by
-      reviewing [our meeting
-      minutes](https://drive.google.com/drive/folders/171bB96m4yfNwvzAYfuTdXRni\
-      uC2XqXLN?usp=sharing). Save that link as a bookmark, or find the minutes
-      linked from our website; from the main menu, click \"Who We Are\" and then
-      \"Bylaws & Meeting Minutes.\"   "
-    author: Mark Richter
-    category: Announcement
   - date: 2025-04-07
     category: Announcement
     title: Join the PHNA Community
