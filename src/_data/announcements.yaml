@@ -1,17 +1,14 @@
 items:
-  - date: 2025-09-26
-    description: "Join us for the October general meeting, Thursday, October 2 at 7
-      PM, at Bethel Church - 5401 South Kingshighway. St. Louis City Recycles
-      will be our special guest and provide a thorough update about City
-      recycling. Plus, they’ll have a limited number of free in-home recycle
-      bins to distribute! "
-    title: October General Meeting
-    author: Mark Richter
-    category: Event
-  - date: 2025-09-18
-    description: For this year's National Night Out, PHNA is doing its first ever
-      Trunk or Treat, Tuesday, October 7 in the Our Lady of Sorrows parking lot.
-      Stay tuned for more details, coming soon!
+  - date: 2025-10-02
+    description: >-
+      For this year's National Night Out, PHNA is doing its first ever Trunk or
+      Treat, Tuesday, October 7 in the Our Lady of Sorrows parking lot. Plenty
+      of spots remain for those that want to distribute candy; registration is
+      on a first come, first served basis. [Register
+      now!](https://docs.google.com/forms/d/e/1FAIpQLScO2JqH97Iac-ZZtssS57ch40FX_AV07G7hhYFbkq69QYe9zA/viewform?usp=sharing&ouid=115276479942452189443)
+
+
+      Set up in the Our Lady of Sorrows parking lot will start at 5 PM, with trick-or-treating starting at 6. As this is our first time hosting a trunk-or-treat, we cannot estimate how many children may visit; however, you will be responsible for purchasing your own candy. Stay tuned for more details!
     title: Trunk-or-Treat!
     author: Mark Richter
     category: Events
@@ -23,3 +20,10 @@ items:
       addition to receiving our newsletters and voting rights, your membership
       helps us build and sustain a vibrant community organization - for all!
     author: Mark Richter
+  - date: 2025-10-02
+    title: October Happy Hour
+    description: Join PHNA and your neighbors for our fall happy hour at Onesto
+      Pizza & Trattoria, from 5-7 PM! Weather permitting, we will be on the
+      patio.
+    author: Mark Richter
+    category: Event
