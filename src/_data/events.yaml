@@ -20,16 +20,6 @@ list:
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
     description: Join PHNA for our April general meeting!
-  - date: 2025-04-24
-    title: April Happy Hour at Smoking Barrels BBQ
-    time: 17:00
-    location: Smoking Barrels BBQ, 5633 South Kingshighway Blvd.
-    location_url: https://maps.app.goo.gl/x4eTg9YezZRosdN4A
-    description: Join PHNA and your neighbors at Smoking Barrels BBQ from 5-7 PM for
-      happy hour!
-    links:
-      - title: Smoking Barrels BBQ
-        url: https://smokingbarrels.net/
   - date: 2025-05-01
     title: May General Meeting
     time: 19:00
