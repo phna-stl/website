@@ -1,9 +1,16 @@
 items:
+  - date: 2026-01-17
+    title: PHNA's 2026 Calendar
+    description: We've just launched our 2026 calendar of events - [check it
+      out](https://phna-stl.org/events/)! More dates to be announced later.
+      We'll see you at our next general meeting, March 5 at 7 PM at Bethel
+      Church.
+    author: Mark Richter
+    category: Announcements
   - date: 2025-10-08
     description: >
-      Renew or become a member now, and your membership is good through 2026!
-      Memberships start at just $15. Join or renew right here [on our
-      website](https://phna-stl.square.site/).
+      Renew or become a member now! Memberships start at just $15. Join or renew
+      right here [on our website](https://phna-stl.square.site/).
     title: PHNA Memberships
     author: Mark Richter
     category: Announcement
