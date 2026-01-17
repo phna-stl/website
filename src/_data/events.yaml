@@ -1,47 +1,48 @@
 list:
-  - date: 2025-03-06
+  - date: 2026-03-05
     title: March General Meeting
     time: 19:00
     location: Bethel Church - 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-    description: Join PHNA for our March general meeting! The St. Louis City Water
-      Division will be there to discuss lead in property service lines.
-  - date: 2025-03-20
-    title: March Happy Hour at Hatch'd STL
+    description: "Join PHNA for our March general meeting! "
+  - date: 2026-03-19
+    title: March Happy Hour at hatch'd STL
     time: 17:00
     location_url: https://maps.app.goo.gl/UTgXhpaZNHejRXRg8
-    location: Hatch'd STL - 6931 Gravois Avenue
+    location: hatch'd STL - 6931 Gravois Avenue
     description: Join PHNA and your neighbors for a special happy hour! Hatch'd will
-      be opening at this time just for us; we'll have a cash bar (including a
-      special Princeton Heights cocktail!), and food will be provided by PHNA.
-  - date: 2025-04-03
+      be opening at this time just for us!
+    links:
+      - url: https://www.hatchdstl.com/
+        title: hatch'd STL
+  - date: 2026-04-02
     title: April General Meeting
     time: 19:00
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
     description: Join PHNA for our April general meeting!
-  - date: 2025-05-01
+  - date: 2026-01-17
+    title: April Happy Hour at Salvage Yard
+    time: 17:00
+    description: "Join PHNA and your neighbors at Salvage Yard from 5-7 PM for happy hour! "
+    location_url: https://maps.app.goo.gl/eBjY22AhAiEXBcqv6
+    location: Salvage Yard Bar and Grill, 5406 Hampton Ave.
+    links:
+      - url: https://salvageyardbarandgrill.com/
+        title: Salvage Yard Bar and Grill
+  - date: 2026-05-07
     title: May General Meeting
     time: 19:00
     description: "Join PHNA for our May general meeting! "
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-  - date: 2025-05-17
-    title: PHNA Annual Neighborhood Picnic
-    time: 11:00
-    location: CoRadius Coworking, 5850 Macklind Ave.
-    location_url: https://maps.app.goo.gl/Qo3Xi2Rb3BDsij3L9
-    description: "Join your neighbors and PHNA for the annual neighborhood picnic!
-      This year, we are once again hosting the picnic in the yard space behind
-      CoRadius Coworking, next to Zoomie's dog yard. More details to be
-      announced! "
-  - date: 2025-06-05
+  - date: 2026-06-04
     title: June General Meeting
     time: 19:00
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
     description: "Join PHNA for our June general meeting! "
-  - date: 2025-06-19
+  - date: 2026-06-18
     title: June Happy Hour at Cafe Nova
     time: 17:00
     location: Cafe Nova, 5611 South Kingshighway Blvd.
@@ -51,23 +52,21 @@ list:
     links:
       - url: https://cafenovastlouis.com/
         title: Cafe Nova
-  - date: 2025-09-04
+  - date: 2026-09-03
     title: September General Meeting
     description: "Join PHNA for our September general meeting! "
     time: 19:00
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-  - date: 2025-09-13
+  - date: 2026-09-12
     title: Annual Fall Yard Sale
     time: 7:00
     location: Princeton Heights
     location_url: To be posted prior to event
-    description: The PHNA Fall Yard Sale will take place on Saturday, September 13!
+    description: The PHNA Fall Yard Sale will take place on Saturday, September 12!
       Sign-up information and other details to be announced.
-    links:
-      - title: Sign up to participate!
-        url: https://docs.google.com/forms/d/e/1FAIpQLScMA-qQY52GBZ9dVNMJs-DUy_OVXTMPWCCew6yVfVyNfUs50Q/viewform?usp=sharing&ouid=111020223108473859578
-  - date: 2025-09-18
+    links: []
+  - date: 2026-09-17
     title: September Happy Hour at JJ Twig's
     time: 17:00
     location: JJ Twig's Pizza & Pub, 5600 Hampton Ave.
@@ -77,23 +76,13 @@ list:
     links:
       - url: http://www.jjtwigssouthhampton.com/
         title: JJ Twig's Pizza & Pub
-  - date: 2025-10-02
+  - date: 2026-10-01
     title: October General Meeting
     description: "Join PHNA for our October general meeting! "
     location: Bethel Church, 5401 South Kingshighway Blvd.
     time: 19:00
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-  - date: 2025-10-07
-    title: National Night Out
-    time: 17:00
-    location: CoRadius Coworking, 5850 Macklind Ave.
-    location_url: https://maps.app.goo.gl/Qo3Xi2Rb3BDsij3L9
-    description: Join your neighbors for a celebration of community during the
-      National Night Out!
-    links:
-      - url: https://www.stlouis-mo.gov/government/departments/public-safety/neighborhood-stabilization-office/national-night-out/index.cfm
-        title: National Night Out
-  - date: 2025-10-16
+  - date: 2026-10-15
     title: October Happy Hour at Onesto
     location: Onesto Pizza & Trattoria, 5401 Finkman St.
     time: 17:00
@@ -103,20 +92,27 @@ list:
     links:
       - url: http://www.onestopizza.com/
         title: Onesto Pizza & Trattoria
-  - date: 2025-11-06
+  - date: 2026-10-22
+    title: Trunk-or-Treat
+    time: 17:30
+    location: Our Lady of Sorrows Catholic Church (Parking Lot), 5020 Rhodes Ave.
+    location_url: https://maps.app.goo.gl/T1gAMEYYJw3LKu9YA
+    description: Join PHNA for our second annual Trunk-or-Treat, in the parking lot
+      of Our Lady of Sorrows, from 5:30-7:00.
+  - date: 2026-11-05
     title: November General Meeting
     description: "Join PHNA for our November general meeting! "
     time: 19:00
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-  - date: 2025-12-04
+  - date: 2026-12-03
     title: Annual Holiday Party
     time: 18:00
     description: We'll be celebrating the season at Bethel Church! More details to
       be announced.
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
-  - date: 2025-12-18
+  - date: 2026-12-17
     title: PHNA Winter Solstice Happy Hour
     time: 17:00
     location: Novella Wine Bar, 5514 South Kingshighway Blvd.
