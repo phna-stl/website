@@ -97,6 +97,18 @@ collections:
         fields:
             - { label: Content, name: content, widget: text }
             - { label: Google Form Link, name: google_form, widget: string }
+  - label: "Updates"
+    name: "updates"
+    folder: "src/updates"
+    create: true
+    slug: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: date, format: "YYYY-MM-DD" }
+      - { label: Author, name: author, widget: string }
+      - { label: Body, name: body, widget: markdown }
+      - { label: "tags", name: "tags", widget: "hidden", default: "updates" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "update" }
   - label: "Who We Are"
     name: "who_we_are"
     editor:
