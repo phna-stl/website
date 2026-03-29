@@ -14,4 +14,6 @@ A﻿t our March general meeting, we learned more about the project to replace th
 
 A﻿meren has shared renderings of what the completed project will look like:
 
-![A rendering of the completed substation, expected to be online in December 2027](/static/img/screenshot-2026-03-29-140257.png "Ameren Substation")
+![A bird's eye view rendering of the completed substation, expected to be online in December 2027](/static/img/screenshot-2026-03-29-140257.png "Ameren Substation")
+
+![A street view rendering of the completed Ameren substation](/static/img/screenshot-2026-03-29-140837.png "A street view rendering of the completed Ameren substation")
