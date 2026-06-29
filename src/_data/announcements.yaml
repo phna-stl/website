@@ -1,25 +1,28 @@
 items:
-  - date: 2026-05-18
-    title: June Meeting Moved to June 11
-    description: Due to scheduling conflicts, we are moving our June meeting out by
-      one week, to the second Thursday of the month - June 11. Same time (7 PM)
-      and same place - Bethel Church, 5401 S. Kingshighway Blvd. Look for our
-      signs the week of the meeting, and we hope to see you there!
-    author: Mark Richter
-    category: Events
-  - date: 2026-05-06
-    description: The PHNA Neighborhood Picnic is May 30 at 11 AM! We are once again
-      hosting the picnic behind CoRadius Coworking (5850 Macklind Ave.), next to
-      Zoomie's dog yard. We'll have hot dogs and brats from G&W Meats, yard
-      games and live music from Signs of a Struggle and Monroe Yancie.
-    author: Mark Richter
-    category: Events
-    title: Annual Neighborhood Picnic
   - date: 2026-05-06
     title: Century Home Plaques
-    description: Century Home plaques are now on sale! Designed by PHNA and created
-      by The Done Dept., each plaque is made from aluminum, 8"x8" in size and
-      comes with pre-drilled holes for installation. Ordering is now available
-      in the PHNA [website store](https://phna-stl.square.site/).
+    description: Century Home plaques are on sale through June 30! Designed by PHNA
+      and created by The Done Dept., each plaque is made from aluminum, 8"x8" in
+      size and comes with pre-drilled holes for installation. Ordering continues
+      through this Tuesday in the PHNA [website
+      store](https://phna-stl.square.site/).
+    author: Mark Richter
+    category: Announcements
+  - date: 2026-06-29
+    title: Princeton Heights Book
+    description: Author and historian Jay Unnerstall is partnering with PHNA to
+      produce a book chronicling the history of Princeton Heights! Call or text
+      him at 314-476-8870, or email him at
+      [jayunnerstall@gmail.com](mailto:jayunnerstall@gmail.com), to share
+      personal stories, historical photos, or other information about the
+      neighborhood.
+    author: Mark Richter
+    category: Announcements
+  - date: 2026-06-29
+    description: We're taking our annual summertime break, and hope you have a great
+      summer. The next PHNA event is our September general meeting, Thursday,
+      September 3. We're still here, though, if you need us, [just reach
+      out](mailto:info@phna-stl.org)!
+    title: Enjoy Your Summer!
     author: Mark Richter
     category: Announcements
