@@ -88,7 +88,9 @@ list:
     description: "[Sign up here](https://forms.gle/33ykhaS2D1xk48z46) to participate
       in our neighborhood yard sale! Prior to the yard sale date, we will offer
       both digital and print versions of the map."
-    links: []
+    links:
+      - title: Yard Sale Registration
+        url: https://forms.gle/33ykhaS2D1xk48z46
   - date: 2026-09-17
     title: September Happy Hour at JJ Twig's
     time: 17:00
