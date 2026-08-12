@@ -74,7 +74,9 @@ list:
         title: Cafe Nova
   - date: 2026-09-03
     title: September General Meeting
-    description: "Join PHNA for our September general meeting! "
+    description: Join us for our September meeting, with special guest speaker Niraj
+      Patel, Director of Public Utilities and Water Commissioner for the City of
+      St. Louis.
     time: 19:00
     location: Bethel Church, 5401 South Kingshighway Blvd.
     location_url: https://www.google.com/maps/place/5401+S+Kingshighway+Blvd,+St.+Louis,+MO+63109/@38.5807898,-90.2819175,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8b5c2e62c7e5f:0xf194c424203feb80!8m2!3d38.5807898!4d-90.2793426!16s%2Fg%2F11c87jzqrt?entry=ttu
@@ -83,8 +85,10 @@ list:
     time: 7:00
     location: Princeton Heights
     location_url: https://maps.app.goo.gl/B9CDqfZoBFQfVWqAA
-    description: The PHNA Fall Yard Sale will take place on Saturday, September 12!
-      Sign-up information and other details to be announced.
+    description: Mark your calendar for the annual PHNA Fall Yard Sale - Saturday,
+      September 12! [Sign up here](https://forms.gle/33ykhaS2D1xk48z46) to
+      participate! Prior to the yard sale date, we will offer both digital and
+      print versions of the map.
     links: []
   - date: 2026-09-17
     title: September Happy Hour at JJ Twig's
