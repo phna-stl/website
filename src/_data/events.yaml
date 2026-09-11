@@ -85,9 +85,9 @@ list:
     time: 7:00
     location: Princeton Heights
     location_url: https://maps.app.goo.gl/B9CDqfZoBFQfVWqAA
-    description: "[Sign up here](https://forms.gle/33ykhaS2D1xk48z46) to participate
-      in our neighborhood yard sale! Prior to the yard sale date, we will offer
-      both digital and print versions of the map."
+    description: Use our [digital
+      map](https://www.google.com/maps/d/viewer?mid=1ppea5hfS-1zHXxLcYS3UQ3IxpUcQlDA&usp=sharing)
+      to navigate the yard sale locations!
     links:
       - title: Yard Sale Registration
         url: https://forms.gle/33ykhaS2D1xk48z46
