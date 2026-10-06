@@ -1,18 +1,19 @@
 items:
-  - date: 2026-09-20
-    title: October General Meeting
-    description: Our next general meeting will be held Thursday, October 1, at 7:00
-      PM at Bethel Church, 5401 South Kingshighway. We’ll have more information
-      about our guest speakers soon, so stay tuned! Also, we will have century
-      home plaques on hand, if you have yet to pick yours up.
+  - date: 2026-10-05
+    title: October Happy Hour
+    description: >
+      Join PHNA and your neighbors for happy hour at Onesto Pizza & Trattoria,
+      Thursday, October 15 from 5-7 PM! We really, really hope the weather
+      cooperates, so we can hang out on the patio! If you haven't yet picked up
+      your century home plaque, you can do so during happy hour.
     author: Mark Richter
     category: Events
   - date: 2026-09-07
     title: Century Home Plaque Pickup
-    description: "Century home plaques were distributed at our general meeting on
-      September 3. If you didn't make it to the meeting, we’ll still have them
-      for you at the October 1 meeting. Once again, for those who ordered
-      plaques, we thank you for your support of this project. "
+    description: "We still have some century home plaques that haven't been picked
+      up. The next opportunity for pickup is at our October happy hour at
+      Onesto, October 15 from 5-7 PM. Once again, for those who ordered plaques,
+      we thank you for your support of this project. "
     author: Mark Richter
     category: Announcements
   - date: 2026-09-20
