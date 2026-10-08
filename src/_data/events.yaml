@@ -129,13 +129,15 @@ list:
     location_url: https://maps.app.goo.gl/T1gAMEYYJw3LKu9YA
     description: >-
       Join PHNA for our second annual Trunk-or-Treat, in the parking lot of Our
-      Lady of Sorrows, from 5:30-7:00 PM. See the event on our home page for
-      registration, to secure one of only 25 reserved spots. Registration is on
-      a first come, first served basis. Deadline to register is Wednesday,
-      October 14.
+      Lady of Sorrows, from 5:30-7:00 PM. Register now to secure one of only 25
+      reserved spots. Registration is on a first come, first served basis.
+      Deadline to register is Wednesday, October 14.
 
 
       A vehicle is not needed in order to participate. Participants are responsible for purchasing their own candy; we anticipate over 100 children. If you or your child(ren) want to participate as trick-or-treaters, registration is not required. PHNA will also have a bonfire and s’mores station.
+    links:
+      - title: Registration
+        url: https://docs.google.com/forms/d/e/1FAIpQLScO2JqH97Iac-ZZtssS57ch40FX_AV07G7hhYFbkq69QYe9zA/viewform?usp=sharing&ouid=115276479942452189443
   - date: 2026-11-05
     title: November General Meeting
     description: "Join PHNA for our November general meeting! "
