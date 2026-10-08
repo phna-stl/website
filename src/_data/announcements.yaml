@@ -1,4 +1,13 @@
 items:
+  - date: 2026-10-07
+    description: PHNA’s second annual Trunk-or-Treat is Thursday, October 22!
+      [Register now](
+      https://docs.google.com/forms/d/e/1FAIpQLScO2JqH97Iac-ZZtssS57ch40FX_AV07G7hhYFbkq69QYe9zA/viewform?usp=sharing&ouid=115276479942452189443)
+      to secure one of only 25 reserved spots. Registration is on a first come,
+      first served basis. Deadline to register is Wednesday, October 14.
+    title: Register for Trunk-or-Treat!
+    author: Mark Richter
+    category: Events
   - date: 2026-10-05
     title: October Happy Hour
     description: >
@@ -8,14 +17,6 @@ items:
       your century home plaque, you can do so during happy hour.
     author: Mark Richter
     category: Events
-  - date: 2026-09-07
-    title: Century Home Plaque Pickup
-    description: "We still have some century home plaques that haven't been picked
-      up. The next opportunity for pickup is at our October happy hour at
-      Onesto, October 15 from 5-7 PM. Once again, for those who ordered plaques,
-      we thank you for your support of this project. "
-    author: Mark Richter
-    category: Announcements
   - date: 2026-09-20
     title: Volunteers Wanted!
     description: "We’re looking for neighbors who are interested in getting involved
